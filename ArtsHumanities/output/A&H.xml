@@ -1,0 +1,2445 @@
+<?xml version="1.0"?>
+<data>
+	<element>
+		<publisher>Roy Rosenzweig Center for History and New Media,George Mason University</publisher>
+		<description>Omeka is a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions. Omeka falls at a crossroads of Web Content Management, Collections Management, and Archival Digital Collections Systems. Omeka is designed with non-IT specialists in mind, allowing users to focus on content and interpretation rather than programming. It brings Web 2.0 technologies and approaches to academic and cultural websites to foster user interaction and participation. It makes top-shelf design easy with a simple and flexible templating system. Its robust open-source developer and user communities underwrite Omeka’s stability and sustainability.Omeka allows users to publish cultural heritage objects, extend its functionality with themes and plugins, and curate online exhibits with digital objects.</description>
+		<creator>Center for History and New Media,George Mason University</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/dublin_core">Dublin Core</specifications>
+		<specifications href="/specifications/atom">ATOM</specifications>
+		<specifications href="/specifications/powerpoint_document_ppt">Powerpoint Document (.ppt)</specifications>
+		<specifications href="/specifications/json">JSON</specifications>
+		<specifications href="/specifications/rss2">RSS2</specifications>
+		<tags href="/user_tags/archiving">archiving</tags>
+		<tags href="/user_tags/data_management">data management</tags>
+		<tags href="/user_tags/cms">CMS</tags>
+		<tags href="/user_tags/web_publishing">web-publishing</tags>
+		<tags href="/user_tags/web_content_management">web content management</tags>
+		<name>Omeka</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/php">PHP</platform>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<platform href="/platform/mac_os_9">Mac OS 9</platform>
+		<platform href="/platform/apache">Apache</platform>
+		<platform href="/platform/ubuntu">Ubuntu</platform>
+		<platform href="/platform/fedora">Fedora</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/omeka</page>
+		<features>Free, Open-source</features>
+		<features>Easy to use</features>
+		<features>Extensible, scalable, and flexible</features>
+		<features>Standards-based metadata and web design</features>
+		<features>Interoperable</features>
+		<features>Contribution Plugin</features>
+		<features>Geolocation Plugin</features>
+		<features>Google Translate Plugin</features>
+		<features>OAI-PMH Harvester</features>
+	</element>
+	<element>
+		<practice href="/practice_led_research/animation">Animation</practice>
+		<practice href="/practice_led_research/photography">Photography</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<practice href="/practice_led_research/video_editing">Video editing</practice>
+		<practice href="/practice_led_research/video_post_production">Video post production</practice>
+		<description>Open source Digital Asset Management solution designed for medium size preservation, cataloguing, media archiving and batch transcoding.</description>
+		<creator>Daydream Interactive Limited</creator>
+		<specifications href="/specifications/embedded_metadata_formats">Embedded metadata formats</specifications>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/image_documents_jpg_gif_png_tiff_bmp_open_office">Image Documents (.jpg) (.gif) (.png) (.tiff) (.bmp) Open Office</specifications>
+		<specifications href="/specifications/macromedia_flash">Macromedia Flash</specifications>
+		<specifications href="/specifications/mpeg_4">MPEG-4</specifications>
+		<tags href="/user_tags/digital_asset_management">digital asset management</tags>
+		<tags href="/user_tags/digital_preservation">Digital Preservation</tags>
+		<tags href="/user_tags/archival_software">archival software</tags>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/net">.net</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<dataCapture href="/data_capture/manual_input_transcription">Manual input and transcription</dataCapture>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/record_linkages">Record linkages</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/video_moving_image_compression">Video and moving image compression</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/focusopen_digital_asset_manager</page>
+		<name>FocusOPEN Digital Asset Manager</name>
+	</element>
+	<element>
+		<publisher>Digidesign</publisher>
+		<practice href="/practice_led_research/audio_mixing">Audio mixing</practice>
+		<practice href="/practice_led_research/sound_generation">Sound generation</practice>
+		<practice href="/practice_led_research/sound_recording">Sound recording</practice>
+		<practice href="/practice_led_research/sound_editing">Sound editing</practice>
+		<description>Pro Tools is an audio creation and production software. With Pro Tools it is possible to compose, record, edit, and mix music or sound for picture — all within one system.</description>
+		<creator>Digidesign</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/audio_interchange_file_format_aiff">Audio Interchange File Format (AIFF)</specifications>
+		<specifications href="/specifications/wav">WAV</specifications>
+		<specifications href="/specifications/sdii">SDII</specifications>
+		<tags href="/user_tags/audio_mixing">Audio mixing</tags>
+		<tags href="/user_tags/sound_generation">Sound generation</tags>
+		<tags href="/user_tags/sound_editing">Sound editing</tags>
+		<tags href="/user_tags/audio_recording">audio recording</tags>
+		<name>Pro Tools</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/proprietary">Proprietary</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<dataCapture href="/data_capture/sound_generation">Sound generation</dataCapture>
+		<dataCapture href="/data_capture/sound_recording">Sound recording</dataCapture>
+		<dataCapture href="/data_capture/music_recognition">Music recognition</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/sound_compression">Sound compression</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/sound_editing">Sound editing</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/sound_encoding">Sound encoding</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/sound_encoding_midi">Sound encoding - MIDI</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/pro_tools</page>
+		<features>over 70 groundbreaking virtual instruments, effects, and utility plug-ins</features>
+		<features>over 8 GB of audio loops</features>
+		<features>view, edit, arrange and print MIDI data as music notation</features>
+		<features>Supports files up to 4 GB</features>
+	</element>
+	<element>
+		<publisher>Open Source Geospatial Foundation</publisher>
+		<description>Geospatial Data Abstraction Library (GDAL) is a translator library for vector and raster geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation.</description>
+		<creator>Frank Warmerdam</creator>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<specifications href="/specifications/ansi_c">ANSI C</specifications>
+		<specifications href="/specifications/jpeg2000">JPEG2000</specifications>
+		<specifications href="/specifications/geotiff">GeoTIFF</specifications>
+		<specifications href="/specifications/sdts">SDTS</specifications>
+		<specifications href="/specifications/ecw">ECW</specifications>
+		<specifications href="/specifications/mrsid">MrSID</specifications>
+		<specifications href="/specifications/dted">DTED</specifications>
+		<specifications href="/specifications/nitf">NITF</specifications>
+		<specifications href="/specifications/esri_shapefiles">ESRI Shapefiles</specifications>
+		<specifications href="/specifications/postgis">PostGIS</specifications>
+		<specifications href="/specifications/mapinfo_mid/mif">Mapinfo mid/mif</specifications>
+		<specifications href="/specifications/tab">TAB</specifications>
+		<specifications href="/specifications/gml">GML</specifications>
+		<specifications href="/specifications/kml">KML</specifications>
+		<specifications href="/specifications/jfif">JFIF</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/geo_referencing_projection">Geo-referencing and projection</tags>
+		<tags href="/user_tags/visualisation">Visualisation</tags>
+		<tags href="/user_tags/geospatial_data">Geospatial data</tags>
+		<name>GDAL</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/x11/mit_license">X11/MIT License</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataCapture href="/data_capture/manual_input_transcription">Manual input and transcription</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/gdal</page>
+		<features>supports over 40 different raster formats</features>
+		<features>available for other applications to use</features>
+		<features>prebuilt utilities</features>
+	</element>
+	<element>
+		<publisher>PostgreSQL Global Development Group</publisher>
+		<description>PostgreSQL is a powerful, open source object-relational database system.</description>
+		<creator>Michael Stonebraker</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/tcl">Tcl</specifications>
+		<specifications href="/specifications/net">.Net</specifications>
+		<specifications href="/specifications/odbc">ODBC</specifications>
+		<tags href="/user_tags/database">database</tags>
+		<tags href="/user_tags/query_language">query language</tags>
+		<name>PostgreSQL</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/postgresql_license">PostgreSQL License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataCapture href="/data_capture/manual_input_transcription">Manual input and transcription</dataCapture>
+		<page>http://www.arts-humanities.net/tools/postgresql</page>
+		<features>fully ACID compliant</features>
+		<features>full support for foreign keys, joins, views, triggers, and stored procedures (in multiple languages)</features>
+		<features>includes most SQL 2008 data types, including INTEGER, NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP</features>
+		<features>supports storage of binary large objects, including pictures, sounds, or video</features>
+		<features>multi-Version Concurrency Control (MVCC)</features>
+		<features>Highly customisable</features>
+	</element>
+	<element>
+		<publisher>Jamie Norrish</publisher>
+		<description>The Entity Authority Tool Set (EATS) is a web application for recording, editing, using and displaying authority information about entities. It is designed to allow multiple authorities to each maintain their own independent data, while operating on a common base so that information about the same entity is all in one place.EATS also comes with client tools for automatically looking up entities in a text by name and adding appropriate TEI markup.</description>
+		<creator>Jamie Norrish</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/django">Django</specifications>
+		<tags href="/user_tags/linked_data">linked data</tags>
+		<tags href="/user_tags/entity_management">Entity Management</tags>
+		<tags href="/user_tags/authority_control">Authority Control</tags>
+		<tags href="/user_tags/authority_access">Authority Access</tags>
+		<name>EATS</name>
+		<platform href="/platform/python">Python</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataCapture href="/data_capture/manual_input_transcription">Manual input and transcription</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/record_linkages">Record linkages</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/eats</page>
+		<features>A web API for importing and exporting entity data</features>
+		<features>Robust searching with support for variant name forms</features>
+		<features>Support for exporting entity data in a variety of formats</features>
+	</element>
+	<element>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<description>QuarkXPress desktop publishing software is commonly used to create page layouts for a variety of print publications such as books, newspapers, magazines, posters and brochures.Similar in function to InDesign, the main differences are Quark's unique features for exporting documents as interactive webpages as well as its widespread use by printers, typesetters and page designers.</description>
+		<creator>Quark Inc</creator>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/unicode">Unicode</specifications>
+		<specifications href="/specifications/photoshop_document_psd">PhotoShop Document (PSD)</specifications>
+		<specifications href="/specifications/quarkxpress_document_qxd">QuarkXpress Document (QXD)</specifications>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/html/xhtml">HTML/XHTML</specifications>
+		<tags href="/user_tags/2d_graphic_design">2d graphic design</tags>
+		<tags href="/user_tags/desktop_publishing_pre_press">Desktop publishing and pre-press</tags>
+		<tags href="/user_tags/quarkxpress">QuarkXpress</tags>
+		<tags href="/user_tags/quark">Quark</tags>
+		<tags href="/user_tags/dtp">DTP</tags>
+		<tags href="/user_tags/typesetting">typesetting</tags>
+		<tags href="/user_tags/printing">printing</tags>
+		<name>QuarkXPress</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/quarkxpress</page>
+		<features>Enables the production of HTML and XML content without the need to convert or refine documents</features>
+		<features>Supports direct PDF importing and outputing according to regulations</features>
+		<features>Fully supports Adobe Photoshop files, avoiding complicated and time-consuming conversions</features>
+		<features>Uses OpenType and Unicode, making font and character settings easy</features>
+		<features>Free TypeTricks XTension locates overset text boxes as well as widows and orphans</features>
+		<features>Presents intuitive colour-management tools that includes the unique option of hexachrome printing</features>
+		<features>Allows the customisation of line and border dashes and stripes as well as the merging of boxes to generate complex shapes</features>
+		<features>Text runaround for hidden layers may be turned off</features>
+		<features>Shared Content instantly incorporates any text or graphic changes consistently throughout a project</features>
+		<features>XPress Composition Zones allow team members to work simulatenously on a project, with all modifications being updated instantly</features>
+		<features>Job jackets keep print job specifications consistent throughout the project, ensuring their clarity and memorability</features>
+	</element>
+	<element>
+		<publisher>GIMP Team</publisher>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<description>A multi-platform software application primarily used for image composition and editing. The basic tool may be augmented by plug-ins and extensions that allow the use of new file formats, effects filters and batch processing capabilities. GIMP was initially created to manipulate raster images, but has been extended to provide limited vector image and moving image support.</description>
+		<creator>GIMP Team</creator>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/portable_network_graphics_png">Portable Network Graphics (PNG)</specifications>
+		<specifications href="/specifications/graphics_interchange_format_gif">Graphics Interchange Format (GIF)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/truevision_targa_tga">Truevision TarGA (TGA)</specifications>
+		<specifications href="/specifications/pc_paintbrush_pcx">PC Paintbrush (PCX)</specifications>
+		<specifications href="/specifications/xpixmap_xpm">XPixMap (XPM)</specifications>
+		<specifications href="/specifications/mpeg_1">MPEG-1</specifications>
+		<specifications href="/specifications/postscript_ps">PostScript (PS)</specifications>
+		<tags href="/user_tags/2d_scanning_photography">2d Scanning and photography</tags>
+		<tags href="/user_tags/image_enhancement">Image enhancement</tags>
+		<tags href="/user_tags/image_manipulation">Image manipulation</tags>
+		<tags href="/user_tags/image_restoration_rectification">Image restoration and rectification</tags>
+		<tags href="/user_tags/manipulation">manipulation</tags>
+		<tags href="/user_tags/batch">batch</tags>
+		<tags href="/user_tags/editing">editing</tags>
+		<tags href="/user_tags/moving_image">moving image</tags>
+		<tags href="/user_tags/raster_image">Raster image</tags>
+		<tags href="/user_tags/script">script</tags>
+		<name>GIMP: GNU Image Manipulation Program</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/unix">Unix</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<dataCapture href="/data_capture/2d_scanning_photography">2d scanning and photography</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/gimp_gnu_image_manipulation_program</page>
+		<features>Tile-based memory management system, which uses disk space to store images that cannot be physically held in memory.</features>
+		<features>Alpha channel support for working with transparency</features>
+		<features>Layer and channel support</features>
+		<features>A procedural database for calling internal GIMP functions from external programs, such as Script-Fu</features>
+		<features>Plug-in support enabling use of new file formats and effects filters</features>
+		<features>GIM Animation Package supports moving image formats.</features>
+	</element>
+	<element>
+		<publisher>Visage Imaging GmbH</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/3d_graphic_design">3d graphic design</practice>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<description>Mercury Amira is a multifaceted tool that allows for integration, manipulation, and visualisation of large sets of data. Automatic and interactive segmentation tools support processing of 3D image data.</description>
+		<creator>Mercury Software Systems</creator>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<tags href="/user_tags/visualisation">Visualisation</tags>
+		<tags href="/user_tags/3d_data_capture">3d data capture</tags>
+		<tags href="/user_tags/2d_imaging">2d imaging</tags>
+		<tags href="/user_tags/3d_imaging">3d imaging</tags>
+		<name>Mercury Amira</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/2d_scanning_photography">2d scanning and photography</dataCapture>
+		<dataCapture href="/data_capture/3d_scanning">3d scanning</dataCapture>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/virtual_world_modelling">Virtual world modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/mercury_amira</page>
+		<features>One platform for visualizing, analyzing and presenting</features>
+		<features>Very large data sets are easily accessible with specific readers</features>
+		<features>C++ coding wizard for technical extension and customization</features>
+	</element>
+	<element>
+		<publisher>Environmental Systems Research Institute (ESRI)</publisher>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<description>ArcGIS is a suite of software that comprises of Desktop GIS, Server GIS, Mobile GIS, and Online GIS. ArcGIS is a platform for building a complete geographic information system (GIS) that lets you easily create, edit, and analyse geographic  knowledge on the desktop; publish data, maps, globes and models to a GIS server and/or share them online; and use them on the desktop, on the Web, or in the field.</description>
+		<creator>Environmental Systems Research Institute (ESRI)</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/microsofts_net_framework">Microsoft's .NET Framework</specifications>
+		<specifications href="/specifications/com_0">COM</specifications>
+		<specifications href="/specifications/visual_basic">Visual Basic</specifications>
+		<specifications href="/specifications/tcp/ip">TCP/IP</specifications>
+		<specifications href="/specifications/unified_modelling_language_uml">Unified Modelling Language (UML)</specifications>
+		<specifications href="/specifications/visual_c">Visual C++</specifications>
+		<specifications href="/specifications/delphi">Delphi</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/geospatial_computing">Geospatial computing</tags>
+		<tags href="/user_tags/geospatial_technology">Geospatial technology</tags>
+		<name>ArcGIS</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/arcgis</page>
+		<features>View and query maps</features>
+		<features>Manipulate shapefiles and geodatabases</features>
+		<features>Data manipulation, editing and analysis</features>
+		<features>Mobile device enabled</features>
+	</element>
+	<element>
+		<publisher>Plone Foundation</publisher>
+		<description>Plone is a powerful, flexible, open source Content Management System (CMS) built on top of Zope application server and CMF.</description>
+		<creator>Alexander Limi, Alan Runyan, and Vidar Andersen</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/javascript">Javascript</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/css">CSS</specifications>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/doc">DOC</specifications>
+		<specifications href="/specifications/pdf">PDF</specifications>
+		<specifications href="/specifications/awk">AWK</specifications>
+		<specifications href="/specifications/xhtml">XHTML</specifications>
+		<tags href="/user_tags/publishing">publishing</tags>
+		<tags href="/user_tags/open_source">open source</tags>
+		<tags href="/user_tags/content_management">Content management</tags>
+		<tags href="/user_tags/web_server">web-server</tags>
+		<name>Plone</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/plone</page>
+		<features>Flexible and adaptable workflow</features>
+		<features>Customisable</features>
+		<features>Free add-ons</features>
+		<features>Versioning, history and reverting content</features>
+		<features>Support for multiple mark up formats</features>
+		<features>Multilingual content management</features>
+		<features>RSS feed support</features>
+		<features>WebDAV and FTP support</features>
+		<features>WYSIWYG</features>
+	</element>
+	<element>
+		<publisher>Microsoft</publisher>
+		<description>SharePoint is a collaboration and content management server, composed of a suite of tools, that enable administrators and users to co-ordinate processes (which may be useful for project management), store digital objects, and collaborate with other parties. Sharepoint offers a set of APIs and modules that may be used and extended to provide new functionality or tailor existing functionality to bespoke requirements.
+Sharepoint is commonly used to host collaborative workspaces, data management system, wikis and blogs.</description>
+		<creator>Microsoft</creator>
+		<specifications href="/specifications/xpath">XPath</specifications>
+		<specifications href="/specifications/xslt">XSLT</specifications>
+		<specifications href="/specifications/silverlight">Silverlight</specifications>
+		<specifications href="/specifications/net">.Net</specifications>
+		<tags href="/user_tags/content_management">Content management</tags>
+		<tags href="/user_tags/portal_server">portal server</tags>
+		<tags href="/user_tags/intranet/extranet_publishing">intranet/extranet publishing</tags>
+		<name>SharePoint</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/microsoft_volume_licensing">Microsoft Volume Licensing</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/sharepoint</page>
+		<features>Extensive integration with Microsoft Office System programs</features>
+		<features>Object versioning system</features>
+		<features>Browser-based configuration</features>
+		<features>Custom site templates</features>
+	</element>
+	<element>
+		<publisher>Apache Software Foundation</publisher>
+		<description>Solr is an open source enterprise search platform from the Apache Lucene project.  It operates as a standalone full-text search server within an appropriate servlet container, such as Tomcat. Solr uses the Lucene Java search library at its core for full-text indexing and search, and has REST-like HTTP/XML and JSON APIs that make it easy to use from virtually any programming language.</description>
+		<creator>CNET Networks</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/html">HTML</specifications>
+		<specifications href="/specifications/http">HTTP</specifications>
+		<specifications href="/specifications/json_apis">JSON APIs</specifications>
+		<specifications href="/specifications/xslt">XSLT</specifications>
+		<tags href="/user_tags/indexing">Indexing</tags>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/full_text_search">full-text search</tags>
+		<tags href="/user_tags/cross_platform">cross-platform</tags>
+		<name>Solr</name>
+		<platform href="/platform/cross_platform">Cross-platform</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/solr</page>
+		<features>May be tailored to many types of application with minimal programming knowledge</features>
+		<features>Extensive plug-in support</features>
+		<features>Full-text indexing and search</features>
+	</element>
+	<element>
+		<publisher>Apache Software Foundation</publisher>
+		<description>Apache Lucene is a high-performance, full-featured text search engine library written entirely in Java. It is a technology suitable for nearly any application that requires full-text search, especially cross-platform.</description>
+		<creator>Doug Cutting</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/html">HTML</specifications>
+		<specifications href="/specifications/doc">DOC</specifications>
+		<specifications href="/specifications/pdf">PDF</specifications>
+		<specifications href="/specifications/delphi">Delphi</specifications>
+		<specifications href="/specifications/c_1">C#</specifications>
+		<specifications href="/specifications/odf">ODF</specifications>
+		<tags href="/user_tags/indexing">Indexing</tags>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/full_text_search">full-text search</tags>
+		<tags href="/user_tags/cross_platform">cross-platform</tags>
+		<name>Lucene</name>
+		<platform href="/platform/java">Java</platform>
+		<platform href="/platform/ant">ANT</platform>
+		<platform href="/platform/junit_0">JUnit</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/lucene</page>
+		<features>Scalable, high-performance indexing</features>
+		<features>Powerful, accurate and efficient search algorithms</features>
+		<features>Cross-platform solution</features>
+	</element>
+	<element>
+		<publisher>Environmental Systems Research Institute (ESRI)</publisher>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<description>ArcExplorer is a custom mapping tool that can be used in a web browser. ArcExplorer allows you to perform a range of basic GIS functions such as display, query and retrieve data.</description>
+		<creator>Environmental Systems Research Institute (ESRI)</creator>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/portable_network_graphics_png">Portable Network Graphics (PNG)</specifications>
+		<specifications href="/specifications/graphics_interchange_format_gif">Graphics Interchange Format (GIF)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/geography">geography</tags>
+		<tags href="/user_tags/geospatial_computing">Geospatial computing</tags>
+		<tags href="/user_tags/geospatial_technology">Geospatial technology</tags>
+		<name>ArcExplorer</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/freeware">Freeware</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/arcexplorer</page>
+		<features>Display and query a variety of standard data sources including ESRI shapefiles, ArcInfo coverages Images, ArcIMS services</features>
+		<features>Pan and zoom through multiple layers and identify, locate, and query geographic and attribute data.</features>
+		<features>Symbolize data based on attributes contained in the data layers to create thematic maps.</features>
+		<features>Perform basic spatial analysis tasks on the geographic data</features>
+		<features>Freely distributable data</features>
+	</element>
+	<element>
+		<publisher>Earth Resource Data Analysis System (ERDAS)</publisher>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<description>ERDAS Imagine is a suite of geospatial authoring software. The suite contains a raster graphics editor and remote sensing application that performs advanced remote sensing analysis and spatial modelling to create new information. ERDAS IMAGINE can also visualize results in 2D, 3D, movies, and on cartographic quality map compositions.</description>
+		<creator>Earth Resource Data Analysis System (ERDAS)</creator>
+		<specifications href="/specifications/javascript">Javascript</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/ajax_frameworks">Ajax frameworks</specifications>
+		<specifications href="/specifications/j2ee">J2EE</specifications>
+		<specifications href="/specifications/erdas_macro_language_eml">Erdas Macro Language (EML)</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/remote_sensing">Remote sensing</tags>
+		<tags href="/user_tags/geospatial_technology">Geospatial technology</tags>
+		<tags href="/user_tags/raster_image">Raster image</tags>
+		<tags href="/user_tags/multispectral_images">multispectral images</tags>
+		<name>ERDAS Imagine</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/remote_sensing">Remote sensing</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/animation">Animation</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/erdas_imagine</page>
+		<features>Image Analysis, Remote Sensing & GIS</features>
+		<features>Parallel Batch Processing</features>
+		<features>Spatial Modeling</features>
+		<features>High Performance Mosaicking Engine in IMAGINE Advantage</features>
+		<features>Expanded Change Detection Tools (with Zonal Change Detection)</features>
+		<features>ERDAS ER Mapper Algorithms</features>
+		<features>Converts over 190 Image Formats to all Major File Formats, including GeoTIFF, NITF, CADRG, JPEG, JPEG2000, ECW and MrSID</features>
+		<features>Implements Comprehensive OGC Web Processing Service (WPS), Web Coverage Service (WCS), Web Mapping Service (WMS) and Catalog Services for the Web (CS-W)</features>
+	</element>
+	<element>
+		<publisher>ABBYY</publisher>
+		<description>A highly intelligent OCR (optical character recognition) software for creating editable and searchable electronic files from scanned paper documents, PDFs and digital photographs.</description>
+		<tags href="/user_tags/ocr">OCR</tags>
+		<tags href="/user_tags/scanning">scanning</tags>
+		<tags href="/user_tags/php">PHP</tags>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/html">HTML</specifications>
+		<specifications href="/specifications/csv">CSV</specifications>
+		<specifications href="/specifications/doc">DOC</specifications>
+		<specifications href="/specifications/xls">XLS</specifications>
+		<specifications href="/specifications/pdf">PDF</specifications>
+		<specifications href="/specifications/tiff">TIFF</specifications>
+		<specifications href="/specifications/jpeg_2000">JPEG 2000</specifications>
+		<specifications href="/specifications/bmp">BMP</specifications>
+		<specifications href="/specifications/pcx">PCX</specifications>
+		<specifications href="/specifications/dcx">DCX</specifications>
+		<specifications href="/specifications/jbig2">JBIG2</specifications>
+		<specifications href="/specifications/png">PNG</specifications>
+		<specifications href="/specifications/xps">XPS</specifications>
+		<specifications href="/specifications/giff">GIFF</specifications>
+		<specifications href="/specifications/djvu">DjVu</specifications>
+		<specifications href="/specifications/wdp">WDP</specifications>
+		<specifications href="/specifications/ppt">PPT</specifications>
+		<specifications href="/specifications/rtf">RTF</specifications>
+		<specifications href="/specifications/txt">TXT</specifications>
+		<practice href="/practice_led_research/2d_scanning">2d scanning</practice>
+		<name>ABBYY Fine Reader</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/2d_scanning_photography">2d scanning and photography</dataCapture>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<page>http://www.arts-humanities.net/tools/abbyy_fine_reader</page>
+		<features>recognition of Digital Camera and Mobile Phone Camera Images</features>
+		<features>comprehensive Language Support</features>
+		<features>complete Integration with Popular Office Applications</features>
+		<features>PDF conversion, archiving and security</features>
+	</element>
+	<element>
+		<publisher>OCLC</publisher>
+		<description>CONTENTdm is digital collection management software that allows for the upload, description, management and access of digital collections.CONTENTdm is mostly used by libraries, archives, museums, government agencies, universities, corporations, historical societies, and other organizations that wish to host a digital collection.</description>
+		<creator>CISO, Center for Information Systems Optimization</creator>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/pdf">PDF</specifications>
+		<specifications href="/specifications/jpeg2000">JPEG2000</specifications>
+		<tags href="/user_tags/archives">archives</tags>
+		<tags href="/user_tags/content_management">Content management</tags>
+		<tags href="/user_tags/repository">repository</tags>
+		<name>CONTENTdm</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/contentdm</page>
+		<features>supports numerous industry standards including Unicode, Z39.50, Qualified Dublin Core, VRA, XML, JPEG2000 and OAI-PMH</features>
+		<features>flexible and fully customisable</features>
+		<features>integration with OCLC products</features>
+		<features>not limited by format</features>
+	</element>
+	<element>
+		<publisher>Futureware Pty Ltd</publisher>
+		<description>MantisBT is a free popular web-based bugtracking system written in the PHP scripting language.The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.</description>
+		<creator>Kenzaburo Ito and Victor Boctor</creator>
+		<specifications href="/specifications/css">CSS</specifications>
+		<specifications href="/specifications/html">HTML</specifications>
+		<specifications href="/specifications/csv">CSV</specifications>
+		<specifications href="/specifications/doc">DOC</specifications>
+		<specifications href="/specifications/xls">XLS</specifications>
+		<tags href="/user_tags/rss">RSS</tags>
+		<tags href="/user_tags/tracking">Tracking</tags>
+		<tags href="/user_tags/css">css</tags>
+		<tags href="/user_tags/hypertext_markup_language_html">HyperText Markup Language (HTML)</tags>
+		<tags href="/user_tags/php">PHP</tags>
+		<tags href="/user_tags/scripting_language">scripting language</tags>
+		<tags href="/user_tags/mysql">MySQL</tags>
+		<name>MantisBT</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/mantisbt</page>
+		<features>event-driven-plug-in system</features>
+		<features>works with MySQL, MS SQL, PostgreSQL, SQLite, Oracle and IBM DB2 databases</features>
+		<features>RSS Feeds</features>
+		<features>Customisable workflow</features>
+		<features>Wiki integration</features>
+		<features>Chat integration</features>
+	</element>
+	<element>
+		<publisher>Rails Core Team</publisher>
+		<description>Ruby on Rails, often shortened to Rails or RoR, is a web development framework written in the Ruby language.
+It is intended to be used with an Agile development methodology that is used by web developers for rapid development.Ruby on Rails is separated into various packages, namely ActiveRecord (an object-relational mapping system for database access), ActiveResource (provides web services), ActionPack, ActiveSupport and ActionMailer.</description>
+		<creator>David Heinemeier Hansson</creator>
+		<specifications href="/specifications/xml">XML</specifications>
+		<specifications href="/specifications/html">HTML</specifications>
+		<specifications href="/specifications/atom">ATOM</specifications>
+		<specifications href="/specifications/jason">JASON</specifications>
+		<tags href="/user_tags/programming">programming</tags>
+		<tags href="/user_tags/hypertext_markup_language_html">HyperText Markup Language (HTML)</tags>
+		<tags href="/user_tags/web_applications">web applications</tags>
+		<tags href="/user_tags/web_development">web development</tags>
+		<tags href="/user_tags/xml">XML</tags>
+		<tags href="/user_tags/atom">ATOM</tags>
+		<name>Ruby on Rails</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/mit">MIT</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/ruby_rails</page>
+		<features>uses the Model-View-Controller (MVC) architecture pattern to organise application programming</features>
+		<features>MySQL, SQLite, and Postgres support</features>
+		<features>opinionated software</features>
+		<features>RESTful architecture</features>
+		<features>Convention over Configuration (CoC) principle</features>
+		<features>Don’t Repeat Yourself (DRY) principle</features>
+	</element>
+	<element>
+		<publisher>Centre for Computing in the Humanities, King's College London</publisher>
+		<description>A tool capable of transforming a collection of TEI encoded XML records into a web site. To perform the process, the tool requires a set of valid XML files, a configuration script that indicates the relationship between files and a ‘personality pack’ (CSS and image files) that determine its visual appearance.</description>
+		<creator>Centre for Computing in the Humanities, King's College London</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<specifications href="/specifications/docbook_dbk">DocBook (DBK)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<tags href="/user_tags/perl">Perl</tags>
+		<tags href="/user_tags/tei">tei</tags>
+		<tags href="/user_tags/markup">markup</tags>
+		<tags href="/user_tags/encoding">encoding</tags>
+		<tags href="/user_tags/web_site">web site</tags>
+		<tags href="/user_tags/docbook">docbook</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>xMod</name>
+		<platform href="/platform/perl">Perl</platform>
+		<licence href="/licence/unknown">Unknown</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/xmod</page>
+		<features>Batch file processing</features>
+		<features>Modular XSLT structure, with special libraries for different transformation scenarios</features>
+		<features>Ability to group files for generation of indices at document and intra-document level</features>
+	</element>
+	<element>
+		<publisher>University of Sheffield</publisher>
+		<description>Melita is a text annotation tool that uses Adaptive Information Extraction to identify text of relevance to user-defined scenarios. In the initial stages of use the user trains the tool to annotate sections of text, which are recorded as a set of rules. The rules may be revised and refined over time to improve accuracy and subsequently applied to similar texts.  The application is now discontinued and has been replaced by AKTive Media.</description>
+		<creator>Department of Computer Science, University of Sheffield</creator>
+		<specifications href="/specifications/resource_description_framework_rdf">Resource Description Framework (RDF)</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/damloil">DAML+OIL</specifications>
+		<specifications href="/specifications/xi">XI</specifications>
+		<tags href="/user_tags/text_analysis">text analysis</tags>
+		<tags href="/user_tags/adaptive_information_extraction">adaptive information extraction</tags>
+		<tags href="/user_tags/text_annotation">Text annotation</tags>
+		<name>Melita</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/unknown">Unknown</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/melita</page>
+		<features>Adaptive Information Extraction</features>
+		<features>Scenario-based annotation</features>
+	</element>
+	<element>
+		<publisher>SourceForge</publisher>
+		<description>A VNC (Virtual Network Computing) client that allows one to display the screen of a remote computer on a local machine. The remote computer may be controlled using the keyboard, mouse, or other peripheral on the local machine. Both local and remote systems must operate VNC software and be appropriately configured to allow access. The title of the software application is a play upon 'Chicken of the Sea', a brand of canned tuna sold in the US.</description>
+		<creator>Smeger</creator>
+		<specifications href="/specifications/tight_transfer_encoding">Tight transfer encoding</specifications>
+		<specifications href="/specifications/zlib_transfer_encoding">ZLib transfer encoding</specifications>
+		<tags href="/user_tags/vnc">Vnc</tags>
+		<tags href="/user_tags/client">client</tags>
+		<tags href="/user_tags/transfer">transfer</tags>
+		<tags href="/user_tags/remote_desktop">remote desktop</tags>
+		<name>Chicken of the VNC</name>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/chicken_vnc</page>
+		<features>Virtual Network Computing (VNC) functionality</features>
+	</element>
+	<element>
+		<publisher>SyncRO Soft Ltd</publisher>
+		<description>A cross-platform XML editor that may be used to create and validate XML documents and associated schema. It fully supports XSL (both XSLT and FO), DTD, Schema (Relax RNG and W3C), Database, XQuery, XHTML and CSS.</description>
+		<creator>SyncRO Soft Ltd</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</specifications>
+		<specifications href="/specifications/document_type_definition_dtd">Document Type Definition (DTD)</specifications>
+		<specifications href="/specifications/schema">Schema</specifications>
+		<specifications href="/specifications/xquery">XQuery</specifications>
+		<specifications href="/specifications/schematron_development">Schematron development</specifications>
+		<specifications href="/specifications/xml_path_language_xpath">XML Path Language (XPath)</specifications>
+		<specifications href="/specifications/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</specifications>
+		<specifications href="/specifications/css">CSS</specifications>
+		<tags href="/user_tags/text_encoding_descriptive">Text encoding - descriptive</tags>
+		<tags href="/user_tags/text_encoding_presentational">Text encoding - presentational</tags>
+		<tags href="/user_tags/text_encoding_referential">Text encoding - referential</tags>
+		<tags href="/user_tags/parsing">Parsing</tags>
+		<tags href="/user_tags/searching_querying">Searching and querying</tags>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>oXygen XML editor</name>
+		<platform href="/platform/java">Java</platform>
+		<platform href="/platform/eclipse">Eclipse</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/oxygen_xml_editor</page>
+		<features>Spellchecker, thesaurus, track changes and other word processing functionality</features>
+		<features>Configurable document view (normal, tagged, plain text)</features>
+		<features>Resource Manager may be used to locate and insert items such as image files and text fragments.</features>
+	</element>
+	<element>
+		<publisher>RivEx</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/3d_graphic_design">3d graphic design</practice>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<practice href="/practice_led_research/texture_design_mapping">Texture design and mapping</practice>
+		<practice href="/practice_led_research/virtual_world_modelling">Virtual world modelling</practice>
+		<description>RivEx is a river network tool designed to run under ESRI ArcMap 9.1. It allows for quality control and analysis of the river network and creation of node layers.</description>
+		<creator>Duncan Hornby</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<specifications href="/specifications/com_0">COM</specifications>
+		<specifications href="/specifications/visual_basic">Visual Basic</specifications>
+		<specifications href="/specifications/owl">OWL</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/river_mapping">River mapping</tags>
+		<tags href="/user_tags/habitat_surveying">habitat surveying</tags>
+		<name>RivEx</name>
+		<platform href="/platform/microsoft_windows_2000">Microsoft Windows 2000</platform>
+		<platform href="/platform/microsoft_windows_xp">Microsoft Windows XP</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/rivex</page>
+		<features>Process connected river centre lines</features>
+		<features>Generate new node layers for the nodes of the network</features>
+		<features>Attribute your network including stream order</features>
+		<features>Convert your network to a measured network</features>
+		<features>Re-orientate (flip) network polylines</features>
+		<features>Quality controlled snapping of sites to the river network</features>
+		<features>Export river network data to KML (Google Earth) format</features>
+	</element>
+	<element>
+		<publisher>Open Text</publisher>
+		<description>Exceed is a PC X server system which allows for graphical user interface (GUI) interactions with networked computers. Exceed provides data exchange among applications on different platforms including UNIX, Linux, VMS, X Window Based System and IBM mainframes.</description>
+		<creator>Hummingbird Ltd.</creator>
+		<specifications href="/specifications/microsoft_visual_c/c">Microsoft Visual C/C++</specifications>
+		<tags href="/user_tags/x_window_system">x window system</tags>
+		<tags href="/user_tags/graphical_user_interface_gui">Graphical User Interface (GUI)</tags>
+		<tags href="/user_tags/networked_computers">networked computers</tags>
+		<tags href="/user_tags/x11">x11</tags>
+		<name>Exceed</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/record_linkages">Record linkages</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/exceed</page>
+		<features>Allows users to connect Microsoft Windows desktops to a wide variety of X Window-enabled servers and access X applications.</features>
+	</element>
+	<element>
+		<publisher>GeoNames.org</publisher>
+		<practice href="/practice_led_research/texture_design_mapping">Texture design and mapping</practice>
+		<description>A global geographical database that may be used to identify, tag and disambiguate all references to location. The database contains over 8 million entries, each of which possesses a geographic name (in various languages), latitude, longitude, elevation, population, administrative subdivision and postal codes and information on unique features.</description>
+		<creator>Marc Wick</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/lisp">Lisp</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/world_geodetic_system_1984_wgs1984">World Geodetic System 1984 (WGS1984)</specifications>
+		<tags href="/user_tags/geocoding">geocoding</tags>
+		<tags href="/user_tags/neogeography">neogeography</tags>
+		<tags href="/user_tags/digital_maps">digital maps</tags>
+		<name>GeoNames</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/creative_commons">Creative Commons</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/geonames</page>
+		<features>Built upon web service, enabling transparent look-up and use of content through third-party tools and sites</features>
+		<features>Browse by geographic location, country name, size of geographic region and other categories.</features>
+		<features>Full text search support</features>
+		<features>Extensible, enabling users to expand existing information or contribute new content</features>
+		<features>Support for the World Geodetic System 1984 (WGS84) co-ordinate system</features>
+	</element>
+	<element>
+		<publisher>University of Edinburgh School of Informatics - Language Technology Group</publisher>
+		<practice href="/practice_led_research/texture_design_mapping">Texture design and mapping</practice>
+		<description>GeoParser is a text analysis tool that may be used to identify, tag and (where appropriate) disambiguate references to geographic location in a text resource. The tool uses Natural Language Processing to analyse the composition of a resource and identifying words that match its geographic database. The approach is useful for processing ambiguous references, such as names that may have one of several locations (e.g. Belfast in Ireland, New Zealand and Canada) and distinguishing names that may be confused with other action (e.g. Reading in Berkshire and reading as an activity). GeoParser may be used with GeoCrossWalk to tag a place name with full geographical coordinates (e.g. an OS National Grid Reference).</description>
+		<creator>University of Edinburgh School of Informatics - Language Technology Group</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/plain_text">plain text</specifications>
+		<specifications href="/specifications/metadata_records">metadata records</specifications>
+		<tags href="/user_tags/parsing">Parsing</tags>
+		<tags href="/user_tags/geoparser">Geoparser</tags>
+		<name>GeoParser</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/university_edinburgh_fee_free_use_no_modifications">University of Edinburgh fee-free use (no modifications)</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/geoparser</page>
+		<features>Analyse text stored in structured, semi-structured and unstructured text formats</features>
+		<features>Creates information that may be processed and used by a global gazetteer</features>
+	</element>
+	<element>
+		<publisher>EML Research gGmbH</publisher>
+		<practice href="/practice_led_research/texture_design_mapping">Texture design and mapping</practice>
+		<description>MMax2 is a text annotation tool for creating and visualizing annotations. It has advanced and customizable methods for information and relation visualization.</description>
+		<creator>Christoph Muller</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<tags href="/user_tags/annotation">annotation</tags>
+		<tags href="/user_tags/corpus_linguistics">corpus linguistics</tags>
+		<tags href="/user_tags/corpus_annotation">Corpus annotation</tags>
+		<name>MMax2</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/mmax2</page>
+		<features>Determination of the word class / part of speech (POS) for words in a text</features>
+		<features>Determination of word senses, including the disambiguation of homonymous and polysemous words</features>
+		<features>Detection of anaphoric expressions and identification of their antecedents</features>
+	</element>
+	<element>
+		<publisher>Python Software Foundation</publisher>
+		<description>A general-purpose high-level programming language that places an emphasis upon code readability. Python supports a number of development models, including object oriented, imperative, and functional design. It provides automatic memory management and a fully dynamic type system.</description>
+		<creator>Guido Van Rossum</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<specifications href="/specifications/microsofts_net_framework">Microsoft's .NET Framework</specifications>
+		<specifications href="/specifications/com_0">COM</specifications>
+		<specifications href="/specifications/corba">CORBA</specifications>
+		<specifications href="/specifications/xml_rcp">XML RCP</specifications>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/programming_language">Programming language</tags>
+		<name>Python</name>
+		<platform href="/platform/java">Java</platform>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<platform href="/platform/net">.net</platform>
+		<licence href="/licence/python_software_foundation">Python Software Foundation</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/python</page>
+		<features>very clear, readable syntax</features>
+		<features>strong introspection capabilities</features>
+		<features>intuitive object orientation</features>
+		<features>natural expression of procedural code</features>
+		<features>full modularity, supporting hierarchical packages</features>
+		<features>exception-based error handling</features>
+		<features>very high level dynamic data types</features>
+		<features>extensive standard libraries and third party modules for virtually every task</features>
+		<features>extensions and modules easily written in C, C++ (or Java for Jython, or .NET languages for IronPython)</features>
+		<features>embeddable within applications as a scripting interface</features>
+	</element>
+	<element>
+		<publisher>Perl.org</publisher>
+		<description>Perl is a high-level, general-purpose, interpreted, dynamic programming language.  Originally developed for text manipulation, it is now used for a wide range of tasks including graphics programming, system administration, network programming, applications that require database access and CGI programming on the Web.</description>
+		<creator>Larry Wall</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/microsofts_net_framework">Microsoft's .NET Framework</specifications>
+		<specifications href="/specifications/apache_http_server">Apache HTTP server</specifications>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/php">PHP</tags>
+		<tags href="/user_tags/programming_language">Programming language</tags>
+		<name>Perl</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<licence href="/licence/artistic_license">Artistic License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/perl</page>
+		<features>C, shell scripting (sh), AWK, and sed</features>
+		<features>powerful text processing facilities</features>
+		<features>flexibility and adaptability</features>
+		<features>support for multiple programming paradigms</features>
+		<features>reference counting memory management</features>
+	</element>
+	<element>
+		<publisher>Institute of Phonetic Sciences - University of Amsterdam</publisher>
+		<practice href="/practice_led_research/sound_editing">Sound editing</practice>
+		<description>A software application that may be used to analyse, synthesise, and manipulate speech in phonetics, and create visual representations of the audio recording.</description>
+		<creator>Paul Boersma and David Weenink</creator>
+		<specifications href="/specifications/lisp">Lisp</specifications>
+		<specifications href="/specifications/eps">EPS</specifications>
+		<specifications href="/specifications/aiff">AIFF</specifications>
+		<specifications href="/specifications/aifc">AIFC</specifications>
+		<specifications href="/specifications/wav">WAV</specifications>
+		<specifications href="/specifications/next/sun">NeXT/Sun</specifications>
+		<specifications href="/specifications/nist">NIST</specifications>
+		<specifications href="/specifications/flac">FLAC</specifications>
+		<specifications href="/specifications/mp3">MP3</specifications>
+		<tags href="/user_tags/speech_analysis">Speech analysis</tags>
+		<tags href="/user_tags/phonetics">phonetics</tags>
+		<name>Praat</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/music_recognition">Music recognition</dataCapture>
+		<dataCapture href="/data_capture/speech_recognition">Speech recognition</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/sound_editing">Sound editing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/praat</page>
+		<features>Speech analysis</features>
+		<features>Speech synthesis</features>
+		<features>Configurability</features>
+		<features>Programmability</features>
+		<features>Integrated mathematical and phonetic symbols</features>
+	</element>
+	<element>
+		<publisher>Helios Software Solutions</publisher>
+		<description>TextPad is a text editor. It may be used as a basic text editor, web page editor, or as part of a programming IDE.</description>
+		<creator>Helios Software Solutions</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/ascii">ASCII</specifications>
+		<tags href="/user_tags/text_editing">text editing</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<tags href="/user_tags/hypertext_markup_language_html">HyperText Markup Language (HTML)</tags>
+		<name>TextPad</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/textpad</page>
+		<features>Universal Naming Convention (UNC) style names support</features>
+		<features>Files up to the limits of 32-bit virtual memory can be edited</features>
+		<features>Spell checker with dictionaries in 10 languages</features>
+		<features>Multi file editing support</features>
+		<features>Commands to change case, and transpose words, characters and lines</features>
+		<features>Commands to indent blocks of text, split or join lines, and insert whole files</features>
+		<features>Change tracking</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems</publisher>
+		<description>Adobe Flash is a multimedia platform that is popular for adding animation and interactivity to web pages. Flash is commonly used to create animation, advertisements, and various web page Flash components, to integrate video into web pages, and more recently, to develop rich Internet applications.</description>
+		<creator>Macromedia</creator>
+		<specifications href="/specifications/adobe_illustrator_ai">Adobe Illustrator (AI)</specifications>
+		<specifications href="/specifications/psd">PSD</specifications>
+		<specifications href="/specifications/flv">FLV</specifications>
+		<specifications href="/specifications/exe">exe</specifications>
+		<specifications href="/specifications/hqx">hqx</specifications>
+		<specifications href="/specifications/fla">fla</specifications>
+		<specifications href="/specifications/flax">flax</specifications>
+		<specifications href="/specifications/mxml">mxml</specifications>
+		<specifications href="/specifications/swd">swd</specifications>
+		<specifications href="/specifications/asc">asc</specifications>
+		<specifications href="/specifications/abc">abc</specifications>
+		<specifications href="/specifications/f4a">f4a</specifications>
+		<specifications href="/specifications/f4b">f4b</specifications>
+		<specifications href="/specifications/f4v">f4v</specifications>
+		<specifications href="/specifications/f4p">f4p</specifications>
+		<specifications href="/specifications/swc">swc</specifications>
+		<specifications href="/specifications/swt">swt</specifications>
+		<specifications href="/specifications/jsfl">jsfl</specifications>
+		<specifications href="/specifications/flp">flp</specifications>
+		<specifications href="/specifications/spl">spl</specifications>
+		<specifications href="/specifications/aso">aso</specifications>
+		<specifications href="/specifications/sol">sol</specifications>
+		<specifications href="/specifications/xfl">xfl</specifications>
+		<specifications href="/specifications/xmp">xmp</specifications>
+		<tags href="/user_tags/animation">Animation</tags>
+		<tags href="/user_tags/web_design">Web design</tags>
+		<name>Adobe Flash</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/eula">EULA</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/animation">Animation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_flash</page>
+		<features>manipulate vector and raster graphics</features>
+		<features>support for bidirectional streaming of audio and video</features>
+		<features>3D transformation</features>
+		<features>Motion editor</features>
+		<features>Metadata (XMP) support</features>
+		<features>XFL support</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems</publisher>
+		<description>An editing tool for web content. Dreamweaver offers a graphics-based (What You See Is What You GET) and code-based user interface for the development of web pages and sites. The tool may be used to simplify the process of web site development (in comparison to creation of individual web pages), through the provision of a templating system that allows single-source update of shared code and layout across entire sites without server-side includes or scripting.</description>
+		<creator>Macromedia</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</specifications>
+		<specifications href="/specifications/svn">SVN</specifications>
+		<specifications href="/specifications/css">CSS</specifications>
+		<specifications href="/specifications/psd">PSD</specifications>
+		<specifications href="/specifications/swf">SWF</specifications>
+		<specifications href="/specifications/flv">FLV</specifications>
+		<specifications href="/specifications/ajax_frameworks">Ajax frameworks</specifications>
+		<specifications href="/specifications/asp">ASP</specifications>
+		<specifications href="/specifications/coldfusion">ColdFusion</specifications>
+		<specifications href="/specifications/jsp">JSP</specifications>
+		<tags href="/user_tags/css">css</tags>
+		<tags href="/user_tags/html">html</tags>
+		<tags href="/user_tags/web_site">web site</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<tags href="/user_tags/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</tags>
+		<tags href="/user_tags/php">PHP</tags>
+		<tags href="/user_tags/web_design">Web design</tags>
+		<tags href="/user_tags/wysiwyg">WYSIWYG</tags>
+		<tags href="/user_tags/svn">SVN</tags>
+		<name>Adobe Dreamweaver</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/adobe_dreamweaver</page>
+		<features>WYSIWYG</features>
+		<features>Code hinting for Ajax and JavaScript frameworks</features>
+		<features>Subversion integration</features>
+		<features>FTP/SFTP support</features>
+		<features>WebDav support</features>
+		<features>Web site template system</features>
+		<features>Adobe Spry AJAX framework support</features>
+	</element>
+	<element>
+		<publisher>Apache Software Foundation</publisher>
+		<description>An open source version control system that is used to manage multiple versions of data objects in a controlled environment. Access and revision to objects are carefully controlled, to prevent unauthorised access and alteration.</description>
+		<creator>CollabNet</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<tags href="/user_tags/perl">Perl</tags>
+		<tags href="/user_tags/python">Python</tags>
+		<tags href="/user_tags/version_control">Version control</tags>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<tags href="/user_tags/php">PHP</tags>
+		<tags href="/user_tags/content">content</tags>
+		<tags href="/user_tags/versioning">versioning</tags>
+		<tags href="/user_tags/access_management">access management</tags>
+		<name>Subversion Version System (SVN)</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/subversion_version_system_svn</page>
+		<features>Version support for all files and directories in repository, enabling administrator to track changes that have occurred and obtain earlier versions of files</features>
+		<features>Free-form versioned metadata</features>
+		<features>Atomic commits</features>
+		<features>Merge tracking</features>
+		<features>File locking</features>
+		<features>Preservation of file attributes, such as executable and read/write status</features>
+		<features>Apache network server support with WebDAV/DeltaV protocol</features>
+		<features>Write-through proxy using WebDAV</features>
+		<features>Interactive conflict resolution</features>
+		<features>Repository read-only mirroring</features>
+	</element>
+	<element>
+		<publisher>Andrew W. Mellon Foundation, University of Alberta & University of Illinois at Urbana-Champaign</publisher>
+		<description>MONK (Metadata Offer New Knowledge) is an online toolset created to assist humanities researchers with the discovery and analysis of patterns within a textual resource. It supports micro analyses of the verbal texture of an individual text and macro analyses of hundreds or thousands of text objects. Each text is converted to an TEI compliant schema using Abbot, normalised using Morphadorner with tokenization, sentence boundaries, standard spellings, parts of speech and lemmata and finally ingested using a Prior tool into a database that provides Java access methods for data extraction.MONK is currently available in two variations: the first contains resources obtained from EEBO, ECCO and ProQuest 19th-Century Fiction and is available to faculty, staff, and students at CIC (Big Ten) universities only, while the second contains American literature only and is available to the wider public.</description>
+		<creator>Andrew W. Mellon Foundation, University of Alberta & University of Illinois at Urbana-Champaign</creator>
+		<specifications href="/specifications/tei_analytics">TEI Analytics</specifications>
+		<tags href="/user_tags/text_analysis">text analysis</tags>
+		<tags href="/user_tags/humanities">humanities</tags>
+		<tags href="/user_tags/tei_analytics">TEI Analytics</tags>
+		<tags href="/user_tags/text_clustering">text clustering</tags>
+		<tags href="/user_tags/text_mining_0">text-mining</tags>
+		<name>MONK</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/monk">MONK</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/monk</page>
+		<features>Micro analysis of verbal texture of an individual text</features>
+		<features>Macro analysis that allows the user to locate texts in the context of a larger document space consisting of thousands of other texts.</features>
+	</element>
+	<element>
+		<publisher>JustSystems</publisher>
+		<description>A software application used for creating and editing documents in XML and SGML.</description>
+		<creator>SoftQuad Software, JustSystems</creator>
+		<specifications href="/specifications/xml_schema_definition_xsd">XML Schema Definition (XSD)</specifications>
+		<specifications href="/specifications/standard_generalized_markup_language_sgml">Standard Generalized Markup Language (SGML)</specifications>
+		<specifications href="/specifications/document_type_definition_dtd">Document Type Definition (DTD)</specifications>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>XMetal</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/xmetal</page>
+		<features>Spellchecker, thesaurus, track changes and other word processing functionality</features>
+		<features>Configurable document view (normal, tagged, plain text)</features>
+		<features>Resource Manager may be used to locate and insert items such as image files and text fragments.</features>
+	</element>
+	<element>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<description>A toolkit for use in the creation of document recognition applications. It may be used by developers to create image processing and recognition tools that are tailored to the requirements of specific communities and subject domains.</description>
+		<tags href="/user_tags/artificial_intelligence">artificial intelligence</tags>
+		<tags href="/user_tags/python">Python</tags>
+		<tags href="/user_tags/graphics_conversion">graphics Conversion</tags>
+		<tags href="/user_tags/information_analysis">Information Analysis</tags>
+		<specifications href="/specifications/python">Python</specifications>
+		<name>Gamera</name>
+		<platform href="/platform/python">Python</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<page>http://www.arts-humanities.net/tools/gamera</page>
+		<features>Custom dictionaries may be created to assist with analysis of specific record types</features>
+		<features>Extensible functionality</features>
+	</element>
+	<element>
+		<publisher>Centre for Speech Technology (CTT), KTH</publisher>
+		<practice href="/practice_led_research/audio_mixing">Audio mixing</practice>
+		<description>A software tool for the manipulation of audio recordings. Wavesurfer provides basic audio editing function, such as excision, copying, pasting, zero-crossing adjustment, and effects such as fading, normalization, echo, inversion, reversal, replacement with silence, and DC-removal.</description>
+		<creator>Centre for Speech Technology (CTT), KTH</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/ms_wav">MS WAV</specifications>
+		<specifications href="/specifications/ogg_vorbis">Ogg Vorbis</specifications>
+		<specifications href="/specifications/htk">HTK</specifications>
+		<specifications href="/specifications/mlf">MLF</specifications>
+		<specifications href="/specifications/timit">TIMIT</specifications>
+		<specifications href="/specifications/esps/waves">ESPS/Waves+</specifications>
+		<specifications href="/specifications/phondat">Phondat</specifications>
+		<specifications href="/specifications/citation_style_format_csl">Citation Style Format (CSL)</specifications>
+		<specifications href="/specifications/sound_designer_sd">Sound Designer (SD)</specifications>
+		<specifications href="/specifications/nist/sphere">NIST/Sphere</specifications>
+		<specifications href="/specifications/sun_audio_au">Sun Audio (AU)</specifications>
+		<tags href="/user_tags/audio">audio</tags>
+		<tags href="/user_tags/playback">playback</tags>
+		<tags href="/user_tags/manipulation">manipulation</tags>
+		<name>Wavesurfer</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/freebsd">FreeBSD</platform>
+		<platform href="/platform/hp_ux">HP-UX</platform>
+		<platform href="/platform/irix">IRIX</platform>
+		<licence href="/licence/bsd_variant">BSD variant</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/sound_recording">Sound recording</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/sound_editing">Sound editing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/wavesurfer</page>
+		<features>Audio format support, including WAV, AU, AIFF, MP3, CSL, SD, Ogg/Vorbis, and NIST/Sphere</features>
+		<features>Read/write support for HTK (and MLF), TIMIT, ESPS/Waves+, and Phondat transcription formats</features>
+		<features>Direct-to-disk playback/recording enabling use of audio recordings larger than available memory</features>
+		<features>Plug-in architecture</features>
+		<features>built-in script interpreter</features>
+	</element>
+	<element>
+		<publisher>Bare Bones Software</publisher>
+		<description>A text editor designed for use by software developers and web designers. BBEdit provides native support for several programming and scripting languages. Third party custom modules are available, created by users, to handle languages that are not supported in the native application.</description>
+		<creator>Bare Bones Software</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/javascript">Javascript</specifications>
+		<specifications href="/specifications/open_scripting_architecture_osa">Open Scripting Architecture (OSA)</specifications>
+		<specifications href="/specifications/applescript">AppleScript</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/cascading_style_sheets_css">Cascading Style Sheets (CSS)</specifications>
+		<specifications href="/specifications/ansi_c">ANSI C</specifications>
+		<specifications href="/specifications/fortran">Fortran</specifications>
+		<specifications href="/specifications/object_pascal">Object Pascal</specifications>
+		<specifications href="/specifications/objective_c">Objective-C</specifications>
+		<specifications href="/specifications/rez">Rez</specifications>
+		<specifications href="/specifications/ruby">Ruby</specifications>
+		<specifications href="/specifications/setext">Setext</specifications>
+		<specifications href="/specifications/sql">SQL</specifications>
+		<specifications href="/specifications/tcl">Tcl</specifications>
+		<specifications href="/specifications/tex">Tex</specifications>
+		<specifications href="/specifications/unix_shell_scripts">UNIX shell scripts</specifications>
+		<specifications href="/specifications/yaml">YAML</specifications>
+		<tags href="/user_tags/text_edit">Text edit</tags>
+		<tags href="/user_tags/syntax">syntax</tags>
+		<tags href="/user_tags/syntax_highlighting">syntax highlighting</tags>
+		<tags href="/user_tags/markup">markup</tags>
+		<name>BBEdit</name>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/bbedit</page>
+		<features>Multi-file text searching</features>
+		<features>Scripting</features>
+		<features>Syntax highlighting for ANSI C, C++, CSS, Fortran (through Fortran 95), HTML, Java, JavaScript, JSP, Object Pascal, Objective-C, Objective-C++, Perl, PHP, Python, Rez, Ruby, Setext, SQL, Tcl, Tex, UNIX shell scripts, XML and YAML</features>
+	</element>
+	<element>
+		<publisher>Matt Mullenweg</publisher>
+		<description>A blog publication system that may be used for basic content management. WordPress is widely used within the arts and humanities community. It offers a template and theme management system, which can be used by administrators to configure their blog without the need to edit PHP or HTML code. A plug-in architecture enables developers and users to expend functionality beyond that provided in the base installation. In its current iteration, WordPress supports only one weblog per installation, although multiple concurrent copies may be run from different directories if configured to use separate database tables. Source code forks, such as WordPress Multi-User (WPMU) allow multiple blogs to exist within a single installation.</description>
+		<creator>Matt Mullenweg, Mike Little and other software developer</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/mysql">MySQL</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<tags href="/user_tags/blog">blog</tags>
+		<tags href="/user_tags/weblog">weblog</tags>
+		<tags href="/user_tags/tagging">tagging</tags>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<platform href="/platform/any_system_supports_php_rdbms">Any system that supports PHP and a RDBMS</platform>
+		<platform href="/platform/php">PHP</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/wordpress</page>
+		<name>WordPress</name>
+	</element>
+	<element>
+		<publisher>Zoomify, Inc</publisher>
+		<description>A suite of products developed for web designers that may be used to convert large images into a form that can be zoomed and panned. Zoomify enables large images to be viewed and manipulated, without an increase in server load or download time. It convert large images stored in raster formats (e.g. TIFF, JPEG) into a set of pieces or 'tiles' The individual pieces contain sub-sections of the image at different resolutions or levels of zoom, which are combined to create a type of mosaic.</description>
+		<creator>Zoomify, Inc</creator>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/macromedia_flash_video_flv">Macromedia Flash Video (FLV)</specifications>
+		<tags href="/user_tags/pan">pan</tags>
+		<tags href="/user_tags/zoom">zoom</tags>
+		<tags href="/user_tags/still_image">still image</tags>
+		<tags href="/user_tags/mosaic">mosaic</tags>
+		<name>Zoomify</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/zoomify</page>
+		<features>Enables access to high quality still images without an increase in server load</features>
+	</element>
+	<element>
+		<publisher>R.J.C. Watt</publisher>
+		<description>A software tool for performing concordance – the analysis of a set of words within its immediate context - on a body of text. The tool performs full concordance, reading and analysing each and every word in a text. It was initially written for the analysis of English texts, but has since been extended to cater for other Western languages. Limited support is also provided for text in East Asian scripts, such as Chinese and Korean.</description>
+		<creator>R.J.C. Watt</creator>
+		<specifications href="/specifications/unknown">Unknown</specifications>
+		<tags href="/user_tags/text_analysis">text analysis</tags>
+		<tags href="/user_tags/web_concordance">web concordance</tags>
+		<tags href="/user_tags/concordance">concordance</tags>
+		<tags href="/user_tags/word_list">word list</tags>
+		<tags href="/user_tags/word_usage">word usage</tags>
+		<name>Concordance</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/concordance</page>
+		<features>Index and word list creation</features>
+		<features>Word frequency count</features>
+		<features>Word usage comparison</features>
+		<features>Keyword analysis</features>
+		<features>Phrase and idiom discovery</features>
+	</element>
+	<element>
+		<publisher>Freshmeat</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/3d_graphic_design">3d graphic design</practice>
+		<description>A software application for analysing and visualising multi-volume seismic data. OpendTect may be used to analyse 2D, 3D and 4D pre- and post-stack seismic data.</description>
+		<creator>OpendTect project</creator>
+		<specifications href="/specifications/open_graphics_library_opengl">Open Graphics Library (OpenGL)</specifications>
+		<tags href="/user_tags/geography">geography</tags>
+		<tags href="/user_tags/seismic">seismic</tags>
+		<tags href="/user_tags/archaeology">archaeology</tags>
+		<name>OpendTect</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/unix">Unix</platform>
+		<platform href="/platform/posix">POSIX</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<licence href="/licence/academic">academic</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/opendtect</page>
+		<features>Visualization and analysis of 2D and 3D seismic data in a single survey</features>
+		<features>2D and 3D horizon tracking including auto-tracking, plane-by-plane, line and manual tracking</features>
+		<features>On-the-fly calculation and visualization of various attributes and filters</features>
+		<features>Plug-in architecture</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/3d_graphic_design">3d graphic design</practice>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<practice href="/practice_led_research/3d_scanning">3d scanning</practice>
+		<practice href="/practice_led_research/photography">Photography</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<practice href="/practice_led_research/photomontage">Photomontage</practice>
+		<description>Adobe Photoshop is an editor for still images. It is equipped with a diverse range of processing tools, enabling users to create or modify content through the use of drawing tools, filters, or other plug-ins.</description>
+		<creator>Adobe Systems Incorporated</creator>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/encapsulated_postscript_eps">Encapsulated PostScript (EPS)</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/portable_network_graphics_png">Portable Network Graphics (PNG)</specifications>
+		<specifications href="/specifications/graphics_interchange_format_gif">Graphics Interchange Format (GIF)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/adobe_illustrator_ai">Adobe Illustrator (AI)</specifications>
+		<specifications href="/specifications/adobe_premiere_pro">Adobe Premiere Pro</specifications>
+		<specifications href="/specifications/adobe_after_effects">Adobe After Effects</specifications>
+		<specifications href="/specifications/adobe_fireworks">Adobe Fireworks</specifications>
+		<tags href="/user_tags/image_enhancement">Image enhancement</tags>
+		<tags href="/user_tags/image_manipulation">Image manipulation</tags>
+		<tags href="/user_tags/photoshop">Photoshop</tags>
+		<tags href="/user_tags/photo_editing">Photo editing</tags>
+		<name>Adobe Photoshop</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<dataCapture href="/data_capture/2d_scanning_photography">2d scanning and photography</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_raster">2d modelling - raster</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/2d_modelling_vector">2d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/photogrammetry">Photogrammetry</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_photoshop</page>
+		<features>Tightly integrated with other Adobe suite software</features>
+		<features>Photoshop functionality can be extended by add-on programs called Photoshop plugins which act like mini-editors that modify the image.</features>
+		<features>Can utilise the colour models RGB, lab, CMKY, Greyscale, binary bitmap and duotone.</features>
+		<features>Reads and writes raster and vector image formats</features>
+	</element>
+	<element>
+		<publisher>University of Northumbria</publisher>
+		<description>ARTISAN (Automatic Retrieval of Trademark Images by Shape Analysis) is a software tool for the analysis and comparison of still image files. It uses a Content-based image retrieval (CBIR) technique to analyse the visual content of an image, contrasting against alternative methods that involve searching of associated metadata. The software builds upon the principles of Gestalt psychology, analysing an image in its entirety and locating images to which it has a broad resemblance. The cross-matching activity may be described as a form of ‘fuzzy searching’, retrieving images on the basis that they look similar to a human observer.</description>
+		<creator>University of Northumbria</creator>
+		<specifications href="/specifications/raster_image_formats">raster image formats</specifications>
+		<tags href="/user_tags/content_based_image_retrieval">Content-based image retrieval</tags>
+		<tags href="/user_tags/image_comparison">Image comparison</tags>
+		<tags href="/user_tags/cbir">cbir</tags>
+		<name>ARTISAN</name>
+		<platform href="/platform/unknown">Unknown</platform>
+		<licence href="/licence/unknown">Unknown</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/artisan</page>
+		<features>Content-based image retrieval (CBIR)</features>
+	</element>
+	<element>
+		<publisher>EpiDoc Collaborative</publisher>
+		<description>Software tool designed to convert digital texts that employ standard typographic editorial conventions into EpiDoc-compliant XML files. A series of regular expressions are applied to the source document and the results are placed into a “shell file” (i.e., a template), which can be customised in advance. The regular expressions are stored in a separate configuration file to permit customisation, but this file is generated from regular expressions embedded in the EpiDoc Guidelines source files. This arrangement permits robust automated and user-driven self-tests within the EpiDoc webapp and facilitates a high degree of coordination across EpiDoc tools. Prior versions exist (MSAccess + VBA and Java, both now deprecated), but more recent development has focused on a JavaScript version that will run without plugins in a modern web browser.</description>
+		<creator>Hugh Cayless (with Zaneta Au, Gabriel Bodard, Tom Elliott, Raffaele Viglianti)</creator>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<specifications href="/specifications/rich_text_format_rtf">Rich Text Format (RTF)</specifications>
+		<specifications href="/specifications/ascii">ASCII</specifications>
+		<tags href="/user_tags/epigraphy">epigraphy</tags>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/epidoc">EpiDoc</tags>
+		<tags href="/user_tags/papyrology">Papyrology</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>CHET-C (Chapel Hill Electronic Text-Converter)</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/chet_c_chapel_hill_electronic_text_converter</page>
+		<features>Regular expression engine that has custom mapping files for Leiden to XML.</features>
+		<features>Customisable for different formats, such as RTF, HTML and TXT</features>
+	</element>
+	<element>
+		<publisher>Dassault Systemes</publisher>
+		<practice href="/practice_led_research/3d_modelling_vector">3d modelling - vector</practice>
+		<description>A software tool for the creation of 3D interactive environments. It may be used to model and interact with physical objects that currently or have previously existed in the real world, or create virtual environments that have not previously encountered. VirTool player software is available for Microsoft Windows, Apple MacOS X, Nintendo Wii and Microsoft Xbox 360.</description>
+		<creator>Dassault Systemes</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/ms_wav">MS WAV</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/portable_network_graphics_png">Portable Network Graphics (PNG)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/3d_xml">3D XML</specifications>
+		<specifications href="/specifications/3ds_max">3ds Max</specifications>
+		<specifications href="/specifications/autodesk_maya">Autodesk Maya</specifications>
+		<specifications href="/specifications/autodesk_softimage_xsi">Autodesk SoftImage (XSI)</specifications>
+		<specifications href="/specifications/lightwave">Lightwave</specifications>
+		<specifications href="/specifications/collada">Collada</specifications>
+		<specifications href="/specifications/truevision_targa_tga">Truevision TarGA (TGA)</specifications>
+		<specifications href="/specifications/pc_paintbrush_pcx">PC Paintbrush (PCX)</specifications>
+		<specifications href="/specifications/windows_media_audio_wma">Windows Media Audio (WMA)</specifications>
+		<tags href="/user_tags/3d_modelling_interactive">3d modelling - interactive</tags>
+		<tags href="/user_tags/virtual_world_modelling">Virtual world modelling</tags>
+		<tags href="/user_tags/virtual_reality">virtual reality</tags>
+		<tags href="/user_tags/virtual_environment">virtual environment</tags>
+		<tags href="/user_tags/3d">3D</tags>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_interactive">3d modelling - interactive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/virtual_world_modelling">Virtual world modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/3dvia_virtools</page>
+		<name>3DVIA Virtools</name>
+	</element>
+	<element>
+		<publisher>TurnTool ApS</publisher>
+		<description>TurnTool is a suite of tools that enable 3D models to be created and viewed in a low-bandwidth environment. The suite consists of two components: a TurnToolBox plug-in for integration with 3D Studio Max, Autodesk Viz, Cinema4D and ArchiCAD that allows these software applications to export objects into the TurnTool format; and a TurnTable Viewer plug-in that is able to recreate the 3D model in a windowed environment or web browser.</description>
+		<creator>TurnTool ApS</creator>
+		<specifications href="/specifications/turntool_tnt">TurnTool (TNT)</specifications>
+		<specifications href="/specifications/activex">ActiveX</specifications>
+		<specifications href="/specifications/javascript">Javascript</specifications>
+		<tags href="/user_tags/modelling">modelling</tags>
+		<tags href="/user_tags/3d_model">3D model</tags>
+		<tags href="/user_tags/3d_object">3D object</tags>
+		<tags href="/user_tags/tnt_format">TNT format</tags>
+		<tags href="/user_tags/activex">ActiveX</tags>
+		<tags href="/user_tags/javascript">Javascript</tags>
+		<name>TurnTool</name>
+		<platform href="/platform/activex">ActiveX</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/3d_modelling_vector">3d modelling - vector</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/turntool</page>
+		<features>3D modelling</features>
+		<features>ActiveX viewer</features>
+		<features>Low bandwidth use</features>
+	</element>
+	<element>
+		<publisher>Bright Interactive</publisher>
+		<description>A digital asset management system for the storage, management and delivery of raster images, audiovisual content, documents and other resources. The software provides limited eCommerce functionality for use by institutions that wish to use the system to sell digital products. It may be installed in-house on a Windows/Linux/Unix system or hosted on a system operated by the developers.</description>
+		<creator>Bright Interactive</creator>
+		<specifications href="/specifications/embedded_metadata_formats">Embedded metadata formats</specifications>
+		<specifications href="/specifications/w3c_accessibility_standards">W3C accessibility standards</specifications>
+		<tags href="/user_tags/visualisation">Visualisation</tags>
+		<tags href="/user_tags/digital_asset_management">digital asset management</tags>
+		<tags href="/user_tags/digital_repository">digital repository</tags>
+		<tags href="/user_tags/ecommerce">ecommerce</tags>
+		<tags href="/user_tags/publication">publication</tags>
+		<name>Asset Bank</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/java">Java</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/asset_bank</page>
+		<features>Image versioning</features>
+		<features>User-driven rating system</features>
+		<features>Automatic generation of thumbnails and preview images</features>
+		<features>Metadata batch edit</features>
+		<features>Date validation</features>
+		<features>Metadata import in XML or other delimited formats</features>
+	</element>
+	<element>
+		<publisher>University of Southampton</publisher>
+		<description>A digital repository software package that may be used to accept, manage and publish digital objects. It is widely used in academia as a system to manage academic research papers, electronic theses and other distinct digital resources. EPrints offers an extensible plug-in architecture, enabling data processing activities to be tailored to the requirements of the institution.</description>
+		<creator>University of Southampton</creator>
+		<specifications href="/specifications/open_access_initiative_protocol_metadata_harvesting_oai_pmh">Open Access Initiative Protocol for Metadata Harvesting (OAI-PMH)</specifications>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/metadata_encoding_transmission_standard_mets">Metadata Encoding and Transmission Standard (METS)</specifications>
+		<specifications href="/specifications/dublin_core">Dublin Core</specifications>
+		<specifications href="/specifications/ep3_xml">EP3-XML</specifications>
+		<specifications href="/specifications/mets">METS</specifications>
+		<specifications href="/specifications/mods">MODS</specifications>
+		<tags href="/user_tags/preservation">preservation</tags>
+		<tags href="/user_tags/digital_repository">digital repository</tags>
+		<tags href="/user_tags/institutional_repository">institutional repository</tags>
+		<tags href="/user_tags/oais">oais</tags>
+		<tags href="/user_tags/eprints">eprints</tags>
+		<name>EPrints.org</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/ubuntu">Ubuntu</platform>
+		<platform href="/platform/debian">Debian</platform>
+		<platform href="/platform/redhat">Redhat</platform>
+		<platform href="/platform/fedora">Fedora</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/eprintsorg</page>
+		<features>OAI-PMH support</features>
+		<features>Deposit interface for mediated or self-deposit</features>
+		<features>PRONOM integration</features>
+		<features>PLANETS PLATO integration (forthcoming)</features>
+		<features>Dublin Core, EP3-XML, METS, MODS metadata format support</features>
+		<features>Extensible plug-in architecture</features>
+	</element>
+	<element>
+		<publisher>QSR International</publisher>
+		<description>A software application that may be used to perform qualitative analysis upon varying types of unstructured and semi-structured data. NVivo enables users to combine and analyse disparate information content, identifying relationships or trends that may not be immediately obvious when handling each item individually. It is used in a variety of academic fields to perform  network and organizational analysis, action or evidence-based research, discourse analysis, grounded theory, conversation analysis, ethnography, literature reviews, phenomenology and mixed methods research.</description>
+		<creator>QSR International</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/mpeg_1">MPEG-1</specifications>
+		<tags href="/user_tags/qualitative_analysis">Qualitative analysis</tags>
+		<tags href="/user_tags/evidence_based_research">evidence-based research</tags>
+		<tags href="/user_tags/discourse_analysis">discourse analysis</tags>
+		<tags href="/user_tags/grounded_theory">grounded theory</tags>
+		<tags href="/user_tags/conversation_analysis">conversation analysis</tags>
+		<tags href="/user_tags/ethnography">ethnography</tags>
+		<tags href="/user_tags/literature_review">literature review</tags>
+		<tags href="/user_tags/phenomenology">phenomenology</tags>
+		<tags href="/user_tags/mixed_methods_research">mixed methods research</tags>
+		<name>NVivo</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/nvivo</page>
+		<features>Multi-language support, including English, French, German, Spanish, Simplified Chinese and Japanese</features>
+		<features>Support for multiple media types in a project, including audiovisual content</features>
+		<features>Perform item coding within the software</features>
+		<features>Perform audio transcription and other activities with the software</features>
+	</element>
+	<element>
+		<publisher>ESRI (Environmental Systems Research Institute)</publisher>
+		<description>A software application for creating, manipulating and analysing GIS (Geographic Information System) data. ArcView may be used to create geographic maps, manipulate spatial features, analyse attributes and characteristics, and visualise spatial information in an understandable form. Current versions of the software enable the user to import and manipulate several content types in a spatial environment, including demographic information, CAD designs, still images and other types of content.</description>
+		<tags href="/user_tags/gis">GIS</tags>
+		<specifications href="/specifications/surfer_ascii_binary_data_format">Surfer (ASCII & binary) data format</specifications>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/windows_enhanced_metafile_emf">Windows Enhanced MetaFile (EMF)</specifications>
+		<specifications href="/specifications/scalable_vector_graphics_svg">Scalable Vector Graphics (SVG)</specifications>
+		<specifications href="/specifications/encapsulated_postscript_eps">Encapsulated PostScript (EPS)</specifications>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/portable_network_graphics_png">Portable Network Graphics (PNG)</specifications>
+		<specifications href="/specifications/graphics_interchange_format_gif">Graphics Interchange Format (GIF)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/esri_digital_elevation_model_dem">ESRI Digital Elevation Model (DEM)</specifications>
+		<specifications href="/specifications/polyline">polyline</specifications>
+		<specifications href="/specifications/polygon">polygon</specifications>
+		<specifications href="/specifications/floating_grid">floating GRID</specifications>
+		<specifications href="/specifications/adobe_illustrator_ai">Adobe Illustrator (AI)</specifications>
+		<name>ArcView</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/arcview</page>
+		<features>Integrated query-building functionality to interrogate a dataset in order to answer research questions. For example, distance measurement, feature location</features>
+		<features>Availability of map templates to create a consistent layout and appearance.</features>
+		<features>Plug-in support that allows use of first-party and third-party extensions to perform tasks unsupported in the base installation of the software. E.g. raster geo-processing and three-dimensional analysis.</features>
+	</element>
+	<element>
+		<publisher>University College London (UCL)</publisher>
+		<description>A statistical package that may be used to compare quantified assemblages of broken and incomplete objects, such as ceramics, glass and bones. Pie-Slice uses Estimated Vessel Equivalent (EVE) as a base form of measurement, in which each measurable fraction is scored as a fraction of a complete vessel. It also trials the use of a new statistical transformation - the pseudo-count transformation - which converts EVEs into Pottery Information Equivalents (PIEs).  The latter enables assemblages to be compared using techniques such as log-linear and correspondence analyses. The resultant output is visualised through the use of GNUPlot.</description>
+		<creator>Clive Orton, UCL</creator>
+		<specifications href="/specifications/ascii">ASCII</specifications>
+		<tags href="/user_tags/estimated_vessel_equivalent">Estimated vessel equivalent</tags>
+		<tags href="/user_tags/eve">eve</tags>
+		<tags href="/user_tags/pottery_information_equivalent">pottery information equivalent</tags>
+		<tags href="/user_tags/assemblage">assemblage</tags>
+		<name>Pie-Slice</name>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/unix">Unix</platform>
+		<platform href="/platform/dos">DOS</platform>
+		<licence href="/licence/gnuplot_open_source">GNUPlot open source</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/pie_slice</page>
+		<features>User-defined variables that may be tailored to specifics of the object being described</features>
+		<features>Visual depiction of the relationship between assemblage variables (e.g. pottery forms), which may be used to evaluate their statistical significance</features>
+	</element>
+	<element>
+		<publisher>Heinz-Detlev Koch</publisher>
+		<description>A structured text editor that may be used to create, edit, validate and convert XML and SGML documents. EpcEdit contains an integrated validating parser, an editor for CALS and HTML tables, an attribute editor and an element manipulation tool.</description>
+		<creator>Heinz-Detlev Koch</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/standard_generalized_markup_language_sgml">Standard Generalized Markup Language (SGML)</specifications>
+		<specifications href="/specifications/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</specifications>
+		<tags href="/user_tags/sgml">sgml</tags>
+		<tags href="/user_tags/html">html</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<tags href="/user_tags/parser">parser</tags>
+		<name>epcEdit</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/epcedit</page>
+		<features>XML/SGML parser with full support of Oasis SGML-Open catalog files</features>
+		<features>Document structure mapping, enabling users to visualise the construction of an XML/SGML document without a DTD</features>
+		<features>Attribute editor that supports conformance checking of attribute values and has special support for ID and IDREF attributes</features>
+		<features>Configurable user interface that may be integrated with other tools through use of Tcl programming language</features>
+	</element>
+	<element>
+		<publisher>Apache Software Foundation</publisher>
+		<description>Xalan is an XSLT processor for transforming XML documents into HTML, text, or other XML document types. It implements XSL Transformations (XSLT) Version 1.0 and XML Path Language (XPath) Version 1.0.</description>
+		<creator>Apache Software Foundation</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</specifications>
+		<specifications href="/specifications/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</specifications>
+		<specifications href="/specifications/xpath">XPath</specifications>
+		<tags href="/user_tags/xpath">XPath</tags>
+		<tags href="/user_tags/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<tags href="/user_tags/hypertext_markup_language_html">HyperText Markup Language (HTML)</tags>
+		<tags href="/user_tags/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</tags>
+		<name>Xalan</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/xalan</page>
+		<features>Conversion between structured markup formats</features>
+		<features>Stylesheet validation</features>
+	</element>
+	<element>
+		<publisher>DW Consulting</publisher>
+		<description>A software application for the transfer, assembly and enhancement of geophysical data obtained from gradiometers, resistivity meters and other monitoring instruments.</description>
+		<creator>DW Consulting</creator>
+		<specifications href="/specifications/geoplot">Geoplot</specifications>
+		<specifications href="/specifications/gssi_profiler">GSSI Profiler</specifications>
+		<specifications href="/specifications/surfer_ascii_binary_data_format">Surfer (ASCII & binary) data format</specifications>
+		<specifications href="/specifications/scintrex">Scintrex</specifications>
+		<tags href="/user_tags/environmental_modelling">environmental modelling</tags>
+		<tags href="/user_tags/geophysics">Geophysics</tags>
+		<tags href="/user_tags/gradiometer">gradiometer</tags>
+		<tags href="/user_tags/monitor">monitor</tags>
+		<name>Archeosurveyor</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/archeosurveyor</page>
+		<features>Support for Geoplot, GSSI Profiler, Surfer (ASCII & binary) and Scintrex input formats</features>
+	</element>
+	<element>
+		<publisher>Duraspace</publisher>
+		<description>An architectural framework upon which a digital asset management (DAM) may be built. Fedora Commons (Flexible Extensible Digital Object Repository Architecture) is widely used in the academic sector as a basis for the creation of an digital library, archive, or repository system. Fedora provides a set of software tools to ingest, manage and deliver digital objects. Fedora Objects may contain many types of information, including descriptive, technical, preservation and relationship metadata. The Fedora server architecture exposes a set of Application Programming Interfaces (APIs) for submission, management, access and search.</description>
+		<creator>Cornell University, University of Virginia and several third-parties</creator>
+		<specifications href="/specifications/rest/soap">REST/SOAP</specifications>
+		<specifications href="/specifications/resource_description_framework_rdf">Resource Description Framework (RDF)</specifications>
+		<specifications href="/specifications/open_access_initiative_protocol_metadata_harvesting_oai_pmh">Open Access Initiative Protocol for Metadata Harvesting (OAI-PMH)</specifications>
+		<specifications href="/specifications/g_search">G-Search</specifications>
+		<tags href="/user_tags/preservation">preservation</tags>
+		<tags href="/user_tags/digital_asset_management">digital asset management</tags>
+		<tags href="/user_tags/digital_repository">digital repository</tags>
+		<tags href="/user_tags/object">object</tags>
+		<tags href="/user_tags/content_model">content model</tags>
+		<name>Fedora Commons</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/apache">Apache</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/cataloguing_indexing">Cataloguing and indexing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/fedora_commons</page>
+		<features>Granular object management via implementer-defined content models</features>
+		<features>Data available via Web APIs (REST/SOAP)</features>
+		<features>RDF search (SPARQL)</features>
+		<features>Rebuilder Utility (for disaster recovery and data migration)</features>
+		<features>OAI-PMH Provider Service</features>
+		<features>GSearch (fulltext) Search Service</features>
+	</element>
+	<element>
+		<publisher>Dries Buytaert</publisher>
+		<description>A web-based Content Management System that is commonly used as a back-end system for resources of many different types and size, including blogs, web portals, discussion sites and web sites. The standard 'core' release of Drupal offers functionality such as user account administration, permissions system, RSS feed support, and customisable page layout. Plug-ins and other extensions may be developed or adopted to provide new functionality.</description>
+		<creator>Dries Buytaert and contributors</creator>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/extensible_hypertext_markup_language_xhtml">eXtensible Hypertext Markup Language (XHTML)</specifications>
+		<specifications href="/specifications/cascading_style_sheets_css">Cascading Style Sheets (CSS)</specifications>
+		<tags href="/user_tags/discussion_forum">Discussion Forum</tags>
+		<tags href="/user_tags/content_management_system">Content Management System</tags>
+		<tags href="/user_tags/blog">blog</tags>
+		<tags href="/user_tags/content_management_framework">Content management framework</tags>
+		<tags href="/user_tags/web_portal">web portal</tags>
+		<name>Drupal</name>
+		<platform href="/platform/any_system_supports_php_rdbms">Any system that supports PHP and a RDBMS</platform>
+		<platform href="/platform/iis">IIS</platform>
+		<platform href="/platform/lighttpd">Lighttpd</platform>
+		<platform href="/platform/apache">Apache</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/drupal</page>
+		<features>Content management (polls, templating, threaded comments, version control)</features>
+		<features>Blogging (blogger API support, content syndication, permalinks)</features>
+	</element>
+	<element>
+		<publisher>University of Michigan</publisher>
+		<practice href="/practice_led_research/sound_editing">Sound editing</practice>
+		<description>A software application for the playback of audio recordings. SoundScriber offers specific functionality for researchers that wish to transcribe a recording. It was originally developed for use in the Michigan Corpus of Academic Spoken English (MICASE) project and released for use by academics performing similar work.</description>
+		<creator>Eric Breck</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/ms_wav">MS WAV</specifications>
+		<tags href="/user_tags/audio">audio</tags>
+		<tags href="/user_tags/audio_playback">audio playback</tags>
+		<tags href="/user_tags/transcription">transcription</tags>
+		<name>SoundScriber</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/sound_editing">Sound editing</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/soundscriber</page>
+		<features>Audio playback via installed audio codecs (e.g. Wav, MP3)</features>
+		<features>Variable speed playback</features>
+		<features>'Walking' support – playback of a small stretch of an audio stream several times to ensure accurate transcription is made, followed by an advancement to a new section of audio.</features>
+	</element>
+	<element>
+		<publisher>University Centre for Computer Corpus Research on Language (UCREL), University of Lancaster</publisher>
+		<description>A software tool for performing Parts-of-Speech (POS) tagging - the classification of words into one or more categories based upon its definition, relationship with other words, or other context - on a body of text. CLAWS (Constituent Likelihood Automatic Word-tagging System) uses several methods to identify parts of speech, most notably a system called Hidden Markov models (HMMs) which involve counting cases and making a table of the probabilities of certain sequences of words. For example, if an article and verb appear together, the next word is more likely to be a preposition, article, or noun, rather than another verb.</description>
+		<creator>University Centre for Computer Corpus Research on Language (UCREL), University of Lancaster</creator>
+		<specifications href="/specifications/claws8_tag_set">CLAWS8 tag-set</specifications>
+		<tags href="/user_tags/corpus_annotation">Corpus annotation</tags>
+		<tags href="/user_tags/parts_of_speech">Parts-of-speech</tags>
+		<tags href="/user_tags/grammatical_tagging">grammatical tagging</tags>
+		<name>CLAWS Tagger</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<licence href="/licence/academic">academic</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/claws_tagger</page>
+		<features>Parts-of-Speech tagging with an accuracy rate of approximately 96-97 percent for text analysed</features>
+		<features>Template tagging</features>
+	</element>
+	<element>
+		<publisher>Michael Collins</publisher>
+		<description>A statistical natural language parser capable of analysing a text to determine its grammatical structure.</description>
+		<creator>Michael Collins</creator>
+		<specifications href="/specifications/parsing_standards">parsing standards</specifications>
+		<tags href="/user_tags/statistical_analysis">Statistical analysis</tags>
+		<tags href="/user_tags/natural_language">Natural language</tags>
+		<tags href="/user_tags/parse">parse</tags>
+		<name>Collin's Parser</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/unix">Unix</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/collins_parser</page>
+		<features>Statistical natural language analysis.</features>
+	</element>
+	<element>
+		<publisher>Aarhus University</publisher>
+		<description>XSugar is a proof of concept tool for mapping textual content between a flat file schema (e.g. wiki mark-up) and XML format (e.g. RELAX NG, XFlat, BibTeX). The tool performs statistical analysis to establish if transformations between the two formats are bi-directional, enabling content that has been converted into an XML format to be re-exported to the original flat file structure, or vice-versa. To validate the conversion, a schema must exist for source and destination formats, e.g. a bespoke XFlat encoded XML document that contains a definition of the structure of a class of flat files, an XML schema.</description>
+		<creator>Programming Language Research Team, Department of Computer Science, Aarhus University</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/extended_flat_xflat">eXtended FLAT (XFLAT)</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/language_processing">language processing</tags>
+		<tags href="/user_tags/markup">markup</tags>
+		<tags href="/user_tags/text_classification">text classification</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>XSugar</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/xsugar</page>
+		<features>Bi-directional content conversion</features>
+		<features>Support for any flat file structure that has been document in an appropriate XFlat format.</features>
+		<features>Support for variety of XML-based formats</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<practice href="/practice_led_research/animation">Animation</practice>
+		<practice href="/practice_led_research/3d_graphic_design">3d graphic design</practice>
+		<practice href="/practice_led_research/moving_image_capture">Moving image capture</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<description>After Effects is a digital motion graphics and compositing software. After Effects allows users to animate, alter, and composite media in 2d and 3d space with various built-in tools and third party plug-ins, as well as individual attention to variables like parallax and user-adjustable angle of observation.
+The latest version, CS4 (9.0.2), is the eighteenth generation in the product line.</description>
+		<creator>Company of Science and Art (v1-2), Adobe Systems Incorporated (v3+)</creator>
+		<specifications href="/specifications/macromedia_flash_video_flv">Macromedia Flash Video (FLV)</specifications>
+		<tags href="/user_tags/animation">Animation</tags>
+		<tags href="/user_tags/motion_graphics">Motion graphics</tags>
+		<tags href="/user_tags/visual_effects">visual effects</tags>
+		<name>Adobe After Effects</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/animation">Animation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_after_effects</page>
+		<features>Tightly integrated with other Adobe suite software</features>
+		<features>Searchable timelines and projects</features>
+		<features>Independent keyframing of x, y, z values</features>
+		<features>3D compositing</features>
+		<features>Cartoon effect</features>
+		<features>layer-oriented</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<practice href="/practice_led_research/photomontage">Photomontage</practice>
+		<description>InDesign is a desktop publishing (DTP) software application which can be used to create periodical publications, posters, flyers, brochures, magazines and books.
+The latest version, InDesign CS4 Server (codenamed Thyme), is the tenth generation in the product line.</description>
+		<creator>Adobe Systems Incorporated</creator>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/unicode">Unicode</specifications>
+		<specifications href="/specifications/macromedia_flash_video_flv">Macromedia Flash Video (FLV)</specifications>
+		<specifications href="/specifications/small_web_format_swf">Small Web Format (SWF)</specifications>
+		<specifications href="/specifications/quarkxpress_document_qxd">QuarkXpress Document (QXD)</specifications>
+		<tags href="/user_tags/design">design</tags>
+		<tags href="/user_tags/graphics">graphics</tags>
+		<name>Adobe InDesign</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_indesign</page>
+		<features>Tightly integrated with other Adobe suite software</features>
+		<features>Dynamic cross-reference support that updates content when moved within a document</features>
+		<features>Spread rotation</features>
+		<features>Smart guides (Quickly align space, rotate, and resize single or multiple objects with the help of dynamic guides.)</features>
+		<features>Conditional text (Deliver multiple versions of a document for different users, all from a single Adobe InDesign source file. Hide text at paragraph, word, and even character level without relying on layers. The remaining text and anchored objects automatically reflow in the layout.)</features>
+		<features>Smart Text Reflow (Automatically add pages at the end of a story, selection, or document when text is overset using this new preference.)</features>
+		<features>Live Preflight</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/photomontage">Photomontage</practice>
+		<description>Adobe Illustrator is a comprehensive vector graphics environment that is ideal for all creative professionals, including web and interactive designers and developers, multimedia producers, motion graphics and visual effects designers, animators, and video professionals. The latest version, Illustrator CS4, is the fourteenth generation in the product line.</description>
+		<creator>Adobe Systems Incorporated</creator>
+		<specifications href="/specifications/jpeg">JPEG</specifications>
+		<specifications href="/specifications/scalable_vector_graphics_svg">Scalable Vector Graphics (SVG)</specifications>
+		<specifications href="/specifications/encapsulated_postscript_eps">Encapsulated PostScript (EPS)</specifications>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/tagged_image_file_format_tiff">Tagged Image File Format (TIFF)</specifications>
+		<specifications href="/specifications/graphics_interchange_format_gif">Graphics Interchange Format (GIF)</specifications>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/rich_text_format_rtf">Rich Text Format (RTF)</specifications>
+		<specifications href="/specifications/unicode">Unicode</specifications>
+		<specifications href="/specifications/adobe_freehand">Adobe Freehand</specifications>
+		<specifications href="/specifications/coreldraw_image_cdr">CorelDraw image (CDR)</specifications>
+		<specifications href="/specifications/windows_metafile_wmf">Windows MetaFile (WMF)</specifications>
+		<specifications href="/specifications/photoshop_document_psd">PhotoShop Document (PSD)</specifications>
+		<specifications href="/specifications/autodesk_drawing_exchange_format_dxf">Autodesk Drawing eXchange Format (DXF)</specifications>
+		<specifications href="/specifications/truetype">TrueType</specifications>
+		<specifications href="/specifications/plug_in_support">Plug-in support</specifications>
+		<specifications href="/specifications/microsoft_word_document">Microsoft Word document</specifications>
+		<tags href="/user_tags/design">design</tags>
+		<tags href="/user_tags/graphics">graphics</tags>
+		<tags href="/user_tags/raster">raster</tags>
+		<tags href="/user_tags/vector">vector</tags>
+		<name>Adobe Illustrator</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_illustrator</page>
+		<features>Tightly integrated with other Adobe suite software</features>
+		<features>Raster and type-in vector format support</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<description>Adobe Bridge is a media management application that may be used to organise, browse, locate, and view creative assets. It was provided as a part of the Adobe Creative Suite, beginning with CS2.</description>
+		<tags href="/user_tags/design">design</tags>
+		<tags href="/user_tags/graphics">graphics</tags>
+		<specifications href="/specifications/hypertext_markup_language_html">HyperText Markup Language (HTML)</specifications>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/small_web_format_swf">Small Web Format (SWF)</specifications>
+		<specifications href="/specifications/adobe_photoshop_document_psd">Adobe Photoshop Document (PSD)</specifications>
+		<name>Adobe Bridge</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<page>http://www.arts-humanities.net/tools/adobe_bridge</page>
+		<features>Tightly integrated with other Adobe suite software (except for the standalone version of Adobe Acrobat 8)</features>
+		<features>Extensible through use of Javascript</features>
+	</element>
+	<element>
+		<publisher>Nuance Communications</publisher>
+		<practice href="/practice_led_research/2d_scanning">2d scanning</practice>
+		<description>A software tool capable of performing Optical Character Recognition (OCR) upon a set of images. It achieves the task by analysing pixel sets and in an image and cross-matching them to a dictionary of words. Omnipage automates large sections of the digitisation process enabling physical objects to be scanned, processed using the OCR software and exported to a document file format. Later versions of the software incorporate image enhancement features to improve scan quality (and recognition results) and better support for complex page layouts and forms.</description>
+		<creator>Nuance Communications</creator>
+		<specifications href="/specifications/microsoft_word_document">Microsoft Word document</specifications>
+		<specifications href="/specifications/microsoft_excel">Microsoft Excel</specifications>
+		<tags href="/user_tags/ocr">OCR</tags>
+		<tags href="/user_tags/image">image</tags>
+		<tags href="/user_tags/optical_character_recognition">optical character recognition</tags>
+		<tags href="/user_tags/scan">scan</tags>
+		<tags href="/user_tags/text">text</tags>
+		<name>OmniPage</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/mac_os_9">Mac OS 9</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<dataCapture href="/data_capture/2d_scanning_photography">2d scanning and photography</dataCapture>
+		<dataCapture href="/data_capture/text_recognition">Text recognition</dataCapture>
+		<page>http://www.arts-humanities.net/tools/omnipage</page>
+		<features>Integration with scanning software</features>
+		<features>Maintain layout of captured document</features>
+	</element>
+	<element>
+		<publisher>Scholarly Digital Editions</publisher>
+		<description>A software application that enables a user to search, manipulate and publish large SGML/XML documents. Anastasia was developed within an academic context to enable the manipulation of a single, large mark-up documents or a set of documents. It utilises two methods to interpret the structure of a mark-up document: First, it uses pattern-matching algorithms to process a hierarchical tree, similar to other XML software applications; Second, it interprets the document structure as a series of sequential 'events' which must be processed. The latter method, it is indicated, enables the application to perform processing activities that are difficult or impossible using the tradition approach. For example, it is able to build a view of textual content across element divisions and in different types of hiearchical structure.</description>
+		<tags href="/user_tags/data_modelling">Data modelling</tags>
+		<tags href="/user_tags/parsing">Parsing</tags>
+		<tags href="/user_tags/sgml">sgml</tags>
+		<tags href="/user_tags/markup">markup</tags>
+		<tags href="/user_tags/element">element</tags>
+		<tags href="/user_tags/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/standard_generalized_markup_language_sgml">Standard Generalized Markup Language (SGML)</specifications>
+		<name>Anastasia</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/anastasia</page>
+		<features>Pattern-matching algorithms to process a hierarchical tree</features>
+		<features>Event-driven analysis to manipulate information stored across element boundaries and contained in semi-structured or unstructured text mark-up</features>
+	</element>
+	<element>
+		<publisher>Microsoft Corporation</publisher>
+		<description>A server-side software application that enables databases conformant to a relational data model to be created, managed and queried. Information, most commonly text may be stored as one or more records contained within a table. The table may exist in isolation or have some relationship to other tables. Information may be manipulated using a set of T-SQL or ANSI SQL commands. Several editions of SQL Server are available, including SQL Server Compact, Developer, Embedded, Enterprise, Evaluation, Express and Fast Track.</description>
+		<creator>Microsoft Corporation</creator>
+		<specifications href="/specifications/transact_sql">Transact-SQL</specifications>
+		<specifications href="/specifications/ansi_sql">ANSI SQL</specifications>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<tags href="/user_tags/data_modelling">Data modelling</tags>
+		<tags href="/user_tags/sql">sql</tags>
+		<tags href="/user_tags/relational_database">relational database</tags>
+		<tags href="/user_tags/rdbms">rdbms</tags>
+		<name>SQL Server</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/sql_server</page>
+		<features>Service Broker</features>
+		<features>Replication Services using transaction, merge, or snapshot replication</features>
+		<features>Analysis functionality to perform data mining, OLAP and other services</features>
+		<features>Report generation services</features>
+	</element>
+	<element>
+		<publisher>Sun Microsystems</publisher>
+		<description>A software application that enables relational databases to be created, managed and queried. The database management system enables multiple users to access a database through an appropriate interface. As an open source tool, MySQL underpins a number of free software projects, such as WordPress, phpBB and other software built on a LAMP infrastructure. Although widely used, there are a number of performance issues that limit its use in some environments. For example, it is unable to use multiple CPU cores to process a single query, potentially limiting its use as a data warehouse.</description>
+		<creator>MySQL AB</creator>
+		<specifications href="/specifications/ansi_sql">ANSI SQL</specifications>
+		<tags href="/user_tags/data_modelling">Data modelling</tags>
+		<tags href="/user_tags/sql">sql</tags>
+		<tags href="/user_tags/relational_database">relational database</tags>
+		<tags href="/user_tags/rdbms">rdbms</tags>
+		<name>MySQL</name>
+		<platform href="/platform/all_major_operating_systems">All major operating systems</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/mysql</page>
+		<features>X/Open XA distributed transaction processing (DTP) support</features>
+		<features>Connector/ODBC enables connection to a MySQL server using the Open Database Connectivity (ODBC) API</features>
+		<features>Connector/NET enables developers to create .NET applications that use data stored in a MySQL database</features>
+	</element>
+	<element>
+		<publisher>ImageMagick Studio LLC</publisher>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<description>A software suite for displaying, converting and editing still images stored in a raster image format. Image manipulation may be performed via the command line, API libraries, or through a simply graphical user interface.</description>
+		<creator>ImageMagick Studio LLC</creator>
+		<specifications href="/specifications/perl">Perl</specifications>
+		<specifications href="/specifications/python">Python</specifications>
+		<specifications href="/specifications/pretty_good_privacy_pgp">Pretty Good Privacy (PGP)</specifications>
+		<specifications href="/specifications/tcl/tk">Tcl/TK</specifications>
+		<specifications href="/specifications/ada">Ada</specifications>
+		<specifications href="/specifications/c">C</specifications>
+		<specifications href="/specifications/clipper_header_ch">Clipper Header (CH)</specifications>
+		<specifications href="/specifications/com">COM+</specifications>
+		<specifications href="/specifications/c_0">C++</specifications>
+		<specifications href="/specifications/lisp">Lisp</specifications>
+		<tags href="/user_tags/image_enhancement">Image enhancement</tags>
+		<tags href="/user_tags/image_manipulation">Image manipulation</tags>
+		<tags href="/user_tags/image_restoration_rectification">Image restoration and rectification</tags>
+		<tags href="/user_tags/manipulation">manipulation</tags>
+		<tags href="/user_tags/batch">batch</tags>
+		<tags href="/user_tags/editing">editing</tags>
+		<tags href="/user_tags/moving_image">moving image</tags>
+		<tags href="/user_tags/raster_image">Raster image</tags>
+		<tags href="/user_tags/script">script</tags>
+		<name>ImageMagik</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/solaris">Solaris</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/freebsd">FreeBSD</platform>
+		<platform href="/platform/amiga_os_40">Amiga OS 4.0</platform>
+		<platform href="/platform/morphos">MorphOS</platform>
+		<licence href="/licence/imagemagick">ImageMagick</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/imagemagik</page>
+		<features>Software control through API and command line</features>
+		<features>Format conversion</features>
+		<features>image transformation</features>
+		<features>transparency support</features>
+		<features>Format identification</features>
+		<features>Text to image conversion</features>
+	</element>
+	<element>
+		<publisher>anrienord</publisher>
+		<description>A Python-based XML web publishing framework which enables dynamic pipelining of XSLT transformations. Data is processed by an XML pipeline composed of several WSGI applications and middleware components.</description>
+		<creator>anrienord</creator>
+		<specifications href="/specifications/extensible_markup_language_xml">eXtensible Markup Language (XML)</specifications>
+		<specifications href="/specifications/web_server_gateway_interface_wsgi">Web Server Gateway Interface (WSGI)</specifications>
+		<tags href="/user_tags/python">Python</tags>
+		<tags href="/user_tags/wsgi">wsgi</tags>
+		<tags href="/user_tags/cocoon">cocoon</tags>
+		<tags href="/user_tags/sitemap">sitemap</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>Pycoon</name>
+		<platform href="/platform/python">Python</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/pycoon</page>
+		<features>Apache Cocoon Sitemap 1.0 compatible</features>
+		<features>WSGI modularity</features>
+		<features>URI pattern matching</features>
+	</element>
+	<element>
+		<publisher>Adobe Systems Incorporated</publisher>
+		<practice href="/practice_led_research/2d_graphic_design">2d graphic design</practice>
+		<practice href="/practice_led_research/2d_illustration">2d illustration</practice>
+		<practice href="/practice_led_research/image_manipulation">Image manipulation</practice>
+		<practice href="/practice_led_research/photomontage">Photomontage</practice>
+		<description>PageMaker was the first desktop publishing (DTP) program, introduced in 1985. The last version is PageMaker 7.0 released  in July 2001. In 2004, Adobe announced that development for Adobe PageMaker had ceased but that Adobe would continue to sell and support it. InDesign is presented as the successor product.</description>
+		<creator>Aldus Corporation (in early versions), Adobe Systems Incorporated</creator>
+		<specifications href="/specifications/portable_document_format_pdf">Portable Document Format (PDF)</specifications>
+		<specifications href="/specifications/quarkxpress_document_qxd">QuarkXpress Document (QXD)</specifications>
+		<specifications href="/specifications/adobe_indesign_indd">Adobe InDesign (INDD)</specifications>
+		<specifications href="/specifications/adobe_photoshop_document_psd">Adobe Photoshop Document (PSD)</specifications>
+		<specifications href="/specifications/adobe_illustrator_ai">Adobe Illustrator (AI)</specifications>
+		<specifications href="/specifications/microsoft_publisher">Microsoft Publisher</specifications>
+		<specifications href="/specifications/microsoft_word_document">Microsoft Word document</specifications>
+		<tags href="/user_tags/design">design</tags>
+		<tags href="/user_tags/graphics">graphics</tags>
+		<name>Adobe Pagemaker</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/graphical_rendering">Graphical rendering</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_enhancement">Image enhancement</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/image_restoration">Image restoration</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/adobe_pagemaker</page>
+		<features>Automatically rearrange a document’s pages into printer spreads for professional printing</features>
+		<features>Automatically create and style bulleted and numbered lists</features>
+		<features>Create customised publications (e.g. catalogues, business cards)</features>
+		<features>Resize and move images and their frames or reposition content in relation to frames using the “Position tool”</features>
+	</element>
+	<element>
+		<publisher>EpiDoc Collaborative</publisher>
+		<description>Customised search engine capable of retrieving information from multiple related sites. The Papyrological Navigator currently retrieves and displays information from the Advanced Papyrological Information System (APIS), the Duke Databank of Documentary Papyri (DDbDP) and the Heidelberger Gesamtverzeichnis (HGV).</description>
+		<creator>Ben Armentor, Hugh Cayless</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<tags href="/user_tags/epigraphy">epigraphy</tags>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/epidoc">EpiDoc</tags>
+		<tags href="/user_tags/papyrology">Papyrology</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/papyrological_navigator_pn</page>
+		<name>Papyrological Navigator (PN)</name>
+	</element>
+	<element>
+		<publisher>EpiDoc Collaborative</publisher>
+		<description>Java class that maps font encodings to one another and allows encoding shifts such as Beta Code to Unicode and the reverse. It was written to support shifting between different encodings for Ancient Greek, but is extensible to support any character set. Supported encodings include Beta Code, Unicode with pre-composed characters, Unicode with combining characters, GreekKeys, SPIonic, and transliterated Greek.</description>
+		<creator>Hugh Cayless</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<specifications href="/specifications/java">Java</specifications>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/papyrology">Papyrology</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>The Transcoder</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/transcoder</page>
+		<features>Java engine</features>
+		<features>XML aware</features>
+	</element>
+	<element>
+		<publisher>EpiDoc Collaborative</publisher>
+		<description>Set of parameterised and customisable XSLT stylesheets for the display of EpiDoc XML in HTML, text, or other display output; they perform the necessary conversions to produce the human-readable versions of EpiDoc, using Leiden conventions. These stylesheets form the basis of almost all EpiDoc projects’ web output.</description>
+		<creator>Zaneta Au, Gabriel Bodard, Hugh Cayless, Tom Elliott</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<specifications href="/specifications/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</specifications>
+		<tags href="/user_tags/epigraphy">epigraphy</tags>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/epidoc">EpiDoc</tags>
+		<tags href="/user_tags/papyrology">Papyrology</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>EpiDoc XSLT</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/epidoc_xslt</page>
+		<features>Modular and parameterised</features>
+		<features>Content transformation</features>
+	</element>
+	<element>
+		<publisher>EpiDoc Collaborative /Integrating Digital Papyrology</publisher>
+		<description>Tool under construction at the University of Kentucky as part of the IDP second phase. It is an editing tool which aims to make the task of creating EpiDoc-conformant XML editions of epigraphic and papyrological texts manageable to users without needing to edit the raw XML. As such it will include conversions tools such as CHET-C, as well as a tags-free editing environment and template handler.</description>
+		<creator>Ryan Baumann, Jon Fox, Charles Carpenter</creator>
+		<specifications href="/specifications/text_encoding_initiative_tei_xml">Text Encoding Initiative (TEI) XML</specifications>
+		<tags href="/user_tags/epigraphy">epigraphy</tags>
+		<tags href="/user_tags/text_encoding">text encoding</tags>
+		<tags href="/user_tags/text_encoding_initiative_tei">Text Encoding Initiative (TEI)</tags>
+		<tags href="/user_tags/epidoc">EpiDoc</tags>
+		<tags href="/user_tags/papyrology">Papyrology</tags>
+		<tags href="/user_tags/extensible_markup_language_xml">eXtensible Markup Language (XML)</tags>
+		<name>SoSOL (Son of SOL)</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_descriptive">Text encoding - descriptive</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_presentational">Text encoding - presentational</dataEnhancement>
+		<dataEnhancement href="/data_structuring_enhancement/text_encoding_referential">Text encoding - referential</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/sosol_son_sol</page>
+		<features>Highly customisable</features>
+		<features>Tagless editing and workflow management suites</features>
+	</element>
+	<element>
+		<publisher>Dominic Mazzoni</publisher>
+		<description>A software tool for capturing and manipulating audio recordings. Audacity may be used to import or record audio streams and subsequently edit aspects of its composition.</description>
+		<creator>Dominic Mazzoni</creator>
+		<specifications href="/specifications/mpeg_1_audio_layer_3_mp3">MPEG-1 Audio Layer 3 (MP3)</specifications>
+		<specifications href="/specifications/ms_wav">MS WAV</specifications>
+		<specifications href="/specifications/audio_interchange_file_format_aiff">Audio Interchange File Format (AIFF)</specifications>
+		<specifications href="/specifications/headerless_raw">headerless Raw</specifications>
+		<specifications href="/specifications/ensoniq_paris">Ensoniq PARIS</specifications>
+		<specifications href="/specifications/iff/svx">IFF/SVX</specifications>
+		<specifications href="/specifications/creative_voice_voc">Creative Voice (VOC)</specifications>
+		<specifications href="/specifications/soundforge_w64">Soundforge W64</specifications>
+		<specifications href="/specifications/gnu_octave_mat">GNU Octave MAT</specifications>
+		<specifications href="/specifications/portable_voice_format_pvf">Portable Voice Format (PVF)</specifications>
+		<specifications href="/specifications/apple_core_audio_format_caf">Apple Core Audio Format (CAF)</specifications>
+		<specifications href="/specifications/sound_designer_ii_sd2">Sound Designer II (SD2)</specifications>
+		<specifications href="/specifications/free_lossless_audio_codec_flac">Free Lossless Audio Codec (FLAC)</specifications>
+		<specifications href="/specifications/ogg_vorbis">Ogg Vorbis</specifications>
+		<specifications href="/specifications/sun_sound_snd">Sun Sound (SND)</specifications>
+		<tags href="/user_tags/audio">audio</tags>
+		<tags href="/user_tags/playback">playback</tags>
+		<tags href="/user_tags/manipulation">manipulation</tags>
+		<name>Audacity</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<platform href="/platform/bsd">BSD</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<dataCapture href="/data_capture/sound_recording">Sound recording</dataCapture>
+		<page>http://www.arts-humanities.net/tools/audacity</page>
+		<features>Manipulate audio recording through use of normalization, trimming, fade in/out and other effects.</features>
+		<features>Plug-in support for new formats and effects</features>
+		<features>Common user interface across operating systems through use of wxWidgets software library</features>
+	</element>
+	<element>
+		<publisher>Google</publisher>
+		<description>Google Earth is a virtual globe, map and geographic information program that was originally called EarthViewer 3D, and was created by Keyhole, Inc, a company acquired by Google in 2004.
+It maps the Earth by the superimposition of images obtained from satellite imagery, aerial photography and GIS 3D globe.</description>
+		<creator>Keyhole, Inc</creator>
+		<specifications href="/specifications/bitmap_bmp">Bitmap (BMP)</specifications>
+		<specifications href="/specifications/keyhole_markup_language_kml">Keyhole Markup Language (KML)</specifications>
+		<specifications href="/specifications/kml_zipped_kmz">KML-Zipped (KMZ)</specifications>
+		<specifications href="/specifications/web_mapping_service_wms">Web Mapping Service (WMS)</specifications>
+		<specifications href="/specifications/gps_data">GPS data</specifications>
+		<specifications href="/specifications/arcview_header_hdr">Arcview Header (HDR)</specifications>
+		<specifications href="/specifications/alias_pix">Alias Pix</specifications>
+		<specifications href="/specifications/portable_anymap_pnm">Portable Anymap (PNM)</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/geography">geography</tags>
+		<tags href="/user_tags/3d">3D</tags>
+		<tags href="/user_tags/geospatial_technology">Geospatial technology</tags>
+		<name>Google Earth</name>
+		<platform href="/platform/microsoft_windows">Microsoft Windows</platform>
+		<platform href="/platform/linux">Linux</platform>
+		<platform href="/platform/mac_os_x">Mac OS X</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataCapture href="/data_capture/geophysical_survey">Geophysical survey</dataCapture>
+		<dataCapture href="/data_capture/gps_total_station_surveys">GPS and total station surveys</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/geo_referencing_projection">Geo-referencing and projection</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/google_earth</page>
+		<features>Editable and customisable maps</features>
+		<features>Simplified touring with audio and voice recording</features>
+		<features>Different layers</features>
+		<features>3D buildings</features>
+		<features>Save and share maps</features>
+	</element>
+	<element>
+		<publisher>Saxonica</publisher>
+		<description>Saxon is a collection of tools for processing XML. It is available in three variations: (1) Saxon-HE (Home Edition), (2) Saxon-PE (Professional Edition) and (3) Saxon-EE (Enterprise Edition). Saxon-HE, published under the Mozilla Public Licence, offers implementations of XSLT 2.0, XQuery 1.0, and XPath 2.0 at the basic level of conformance defined by W3C. The commercial variations (Saxon-PE and EE) offer additional support for XQuery 1.1, JDOM, XOM, DOM4J, as well as other features.</description>
+		<creator>Michael Kay</creator>
+		<specifications href="/specifications/xquery">XQuery</specifications>
+		<specifications href="/specifications/xml_path_language_xpath">XML Path Language (XPath)</specifications>
+		<specifications href="/specifications/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</specifications>
+		<specifications href="/specifications/java_document_object_model_jdom">Java Document Object Model (JDOM)</specifications>
+		<specifications href="/specifications/xml_object_model_xom">XML Object Model (XOM)</specifications>
+		<tags href="/user_tags/xquery">XQuery</tags>
+		<tags href="/user_tags/xpath">XPath</tags>
+		<tags href="/user_tags/jdom">JDOM</tags>
+		<tags href="/user_tags/xom">XOM</tags>
+		<tags href="/user_tags/extensible_stylesheet_language_transformation_xslt">eXtensible Stylesheet Language Transformation (XSLT)</tags>
+		<name>SAXON</name>
+		<platform href="/platform/java">Java</platform>
+		<platform href="/platform/net">.net</platform>
+		<licence href="/licence/commercial">commercial</licence>
+		<licence href="/licence/mozilla_public_license">Mozilla Public License</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/structuring">structuring</lifeCycle>
+		<dataCapture href="/data_capture/use_existing_digital_data">Use of existing digital data</dataCapture>
+		<dataEnhancement href="/data_structuring_enhancement/coding_standardisation">Coding and standardisation</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/saxon</page>
+		<features>Support for XSLT 1.0/2.0, XPath 1.0/2.0, XQuery 1.0, XML Schema 1.0 and other standards</features>
+		<features>xml-stylesheet Processing Instruction</features>
+		<features>Java Code Generation</features>
+	</element>
+	<element>
+		<publisher>Robert Dewar and Ken Belcher</publisher>
+		<description>SPITBOL (Speedy Implementation of SNOBOL) is a compiled implementation of the SNOBOL4 (String Oriented Symbolic Language) programming language. SNOBOL was one of several character-string oriented languages developed during the 1950s and 1960s. The tool is widely regarded as the most efficient method of executing SNOBOL4 programs, due to the use of a garbage collector to manage memory usage and a compile time decision-making system.</description>
+		<creator>Robert Dewar and Ken Belcher</creator>
+		<specifications href="/specifications/string_oriented_symbolic_language_snobol">String Oriented Symbolic Language (SNOBOL)</specifications>
+		<tags href="/user_tags/spitbol">spitbol</tags>
+		<tags href="/user_tags/snobol4">snobol4</tags>
+		<tags href="/user_tags/string_processing">string-processing</tags>
+		<tags href="/user_tags/assembly_language">assembly-language</tags>
+		<name>SPITBOL</name>
+		<platform href="/platform/mvt">MVT</platform>
+		<platform href="/platform/mvs">MVS</platform>
+		<platform href="/platform/mvs/xa">MVS/XA</platform>
+		<licence href="/licence/mit">MIT</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/spitbol</page>
+		<features>Character-string programming language</features>
+	</element>
+	<element>
+		<publisher>Clarinet Systems Ltd</publisher>
+		<description>A data management tool for the storage and presentation of text, images and spatial data. It has been built upon the principles of the world wide web, enabling researchers to configure the system, input or upload new content, manipulate existing content and make it available access through a web browser. ToadHMS (The Oxford ArchDigital Heritage Management System) was developed in PHP and can be integrated with a number of database back-end systems, including MySQL and SQL Server. It uses open source tools, such as ImageMagick to automate data management tasks.</description>
+		<creator>Oxford Archdigital Limited (original creator), Clarinet Systems Ltd (current maintainer)</creator>
+		<specifications href="/specifications/php">PHP</specifications>
+		<specifications href="/specifications/relational_database_management_system_rdbms">Relational DataBase Management System (RDBMS)</specifications>
+		<tags href="/user_tags/gis">GIS</tags>
+		<tags href="/user_tags/heritage_management_system">heritage management system</tags>
+		<tags href="/user_tags/database">database</tags>
+		<tags href="/user_tags/photo_album">photo album</tags>
+		<name>ToadHMS</name>
+		<platform href="/platform/any_system_supports_php_rdbms">Any system that supports PHP and a RDBMS</platform>
+		<licence href="/licence/gnu_general_public_license">GNU General Public License</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<dataEnhancement href="/data_structuring_enhancement/data_modelling">Data modelling</dataEnhancement>
+		<page>http://www.arts-humanities.net/tools/toadhms</page>
+		<features>Searchable database</features>
+		<features>Photo album creation and management</features>
+	</element>
+	<element>
+		<publisher>Centre for Computing in the Humanities, King's College London</publisher>
+		<description>A suite of software components designed to support the development of interfaces between web applications on J2EE systems.</description>
+		<creator>Centre for Computing in the Humanities, King's College London</creator>
+		<specifications href="/specifications/rdb2java">RDB2Java</specifications>
+		<tags href="/user_tags/java">JAVA</tags>
+		<tags href="/user_tags/relational_database">relational database</tags>
+		<tags href="/user_tags/j2ee">J2EE</tags>
+		<name>RDB2Java</name>
+		<platform href="/platform/java">Java</platform>
+		<licence href="/licence/unknown">Unknown</licence>
+		<lifeCycle href="/lifecyclestage/creation">creation</lifeCycle>
+		<lifeCycle href="/lifecyclestage/publishing">publishing</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/rdb2java</page>
+		<features>Effective management of database-driven web sites</features>
+	</element>
+	<element>
+		<publisher>University of Oxford</publisher>
+		<description>A software application that enables a user to perform radiocarbon calibration and analysis of archaeological and environmental chronological information. It may be used to calculate the probable age ranges of scientifically dated samples through radiocarbon calibration, sapwood estimates and other methods. It is possible to establish age by measuring the rate of decay of the radioactive isotope 14C - a naturally occurring ubiquitous entity found in all life-forms.</description>
+		<creator>Oxford Radiocarbon Accelerator Unit, University of Oxford</creator>
+		<specifications href="/specifications/calib_14c">CALIB 14c</specifications>
+		<specifications href="/specifications/groningen_dta_import_format">Groningen (.dta) import format</specifications>
+		<tags href="/user_tags/text_analysis">text analysis</tags>
+		<tags href="/user_tags/web_concordance">web concordance</tags>
+		<tags href="/user_tags/concordance">concordance</tags>
+		<tags href="/user_tags/word_list">word list</tags>
+		<tags href="/user_tags/word_usage">word usage</tags>
+		<name>OxCal</name>
+		<platform href="/platform/javascript_enabled_browser">JavaScript enabled browser</platform>
+		<licence href="/licence/freeware">Freeware</licence>
+		<lifeCycle href="/lifecyclestage/analysis">analysis</lifeCycle>
+		<page>http://www.arts-humanities.net/tools/oxcal</page>
+		<features>radiocarbon calibration</features>
+		<features>archaeological and environmental chronological analysis</features>
+	</element>
+</data>

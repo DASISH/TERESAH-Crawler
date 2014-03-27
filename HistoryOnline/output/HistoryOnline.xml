@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<data>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Forum; blog;</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Amazon Web Services offers a range of cloud computing services, many of them aimed at the commercial sector (for example, a micropayments system); some of the services of interest to historical researchers may be its cloud database services, online file storage, and text mining tools such as Hadoop. Costs vary greatly but an advantage of cloud services is that space is usually charged according to what is used (as opposed to buying a physical server, which may not be fully used by remains a fixed cost).</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>Variable; data use charged monthly</price>
+		<page>http://www.history.ac.uk//history-online/node/74978</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://aws.amazon.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Advanced</advanced>
+		<name>Amazon Web Services</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Principal maintainers say they will try to respond to email.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>The program is designed to process large, scholarly XML files and publish them in any desired format. This involves some parsing and analysing of the structure of the XML documents; Anastasia is not bound to the hierarchical family-tree model of XML and so can begin processing at any required point. Tools are included for publishing to the web. A good knowledge of the Tcl scripting language is assumed, as well as some prior knowledge of XML.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74812</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://anastasia.sourceforge.net/</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Anastasia</name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Forum; mailing list</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Annie is open-source information extraction software. It offers standard Natural Language Processing tasks, such as tokenisation, sentence splitting and named entity recognition - the latter being its main purpose. It can be used via an API or downloaded. It uses the GATE (General Architecture for Text Engineering) software. Its online trial feature (where users can enter a url and have the software perform named entitiy on that webpage) is particularly suitable for introducing named entity recognition as a concept.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75463</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.aktors.org/technologies/annie/</homepage>
+		<availability>Both</availability>
+		<advanced>Beginner</advanced>
+		<name>Annie </name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>User forums. Blogs and wiki from the company, as well as a knowledge base and technical support.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>A system for collecting, visualising and analysing geographical information, including the creation of maps and mapping applications. Multiple data types can be imported, provided they are geographical.  Cloud-based and desktop (Windows only) interfaces are available. Some functionality is available to a free, non-commercial account, but full functionality requires an organizational licence, see: http://www.esri.com/software/arcgis/arcgisonline/features/comparison-table. A free trial of the full product is available.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>Variable; contact Esri</price>
+		<page>http://www.history.ac.uk//history-online/node/74813</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.esri.com/software/arcgis</homepage>
+		<availability>Offline</availability>
+		<advanced>Intermediate</advanced>
+		<name>ArcGIS</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<category>Text mining</category>
+		<userCommunity>Forum; email address for help</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Cheshire3 is an open-source search engine designed for indexing records. Additionally there are plugins for text mining tasks such as Natural Language Processing, and searching of RDF (Resource Description Framework) files, as well as SQL data. It has a Python-based API.</description>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75553</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.cheshire3.org</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Cheshire3</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Webform for queries; Facebook; Twitter</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Click2Map's 'Free Map Creator' provides an online user interface which helps create maps, to which users can add points of interest, display markers containing HTML content such as text and images, and lines/polygons. Maps can be downloaded or published on a website free of charge.</description>
+		<os>Windows</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74975</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.click2map.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Click2map </name>
+	</element>
+	<element>
+		<category>Linked data</category>
+		<userCommunity>Mailing list, issue tracker, online demos.</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>The DR2 server provides a mechanism for publishing relational databases in a way which is searchable by semantic web tools, such as RDF (Resource Description Framework) browsers and SPARQL queries. This is done by having the semantic web queries translated into SQL queries on the fly. It is recommended that the DR2 Server is deployed in a servlet, a Java program which runs within a server. The DR2 Server is part of the DR2 Platform: http://d2rq.org/.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75634</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://d2rq.org/d2r-server</homepage>
+		<availability>Online</availability>
+		<advanced>Advanced</advanced>
+		<name>DR2 Server</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>User and staff forum, webform for help queries.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Dropbox is a file-sharing and synching service. Users can upload and download files from folders via a web interface or a desktop application that synchs with the cloud; smartphone apps are also available. Users can create public folders to share documents with people who do not have a Dropbox account. Accounts are free to a limit of between 2 and 18 GB. Paid-for accounts offer between 100 and 500 GB and, additionally, an unlimited 'undo' option. A team account is available, starting at 1TB of data.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>Free up to 18GB</price>
+		<page>http://www.history.ac.uk//history-online/node/74824</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>https://www.dropbox.com/</homepage>
+		<availability>Both</availability>
+		<advanced>Beginner</advanced>
+		<name>Dropbox</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Mailing lists and user groups; Emacs wiki; Emacs tutorial bunlded with software; Emacs manual available online for free</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Although at heart a text editor, Emacs is highly customisable and can be used for many tasks, including XML editing (it has an XML 'mode'). Emacs requires an initial invstment of time, but because it can be customised for individual needs, with macros and key bindings, once learned it is a highly efficient way to edit documents. XML parsers and authoring tools are available as add-ons.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74822</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.gnu.org/software/emacs/</homepage>
+		<availability>Offline</availability>
+		<advanced>Intermediate</advanced>
+		<name>Emacs</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<category>Visualisation</category>
+		<userCommunity>User boards and blog; contact us form.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>An open repository of data and maps. A mixture of free and paid-for services (the premium part is called GeoIQ). Data can be uploaded from csv files or from URLs. KML and other formats are supported. Geodata can include UK postcodes, but may work best with US data. Different data sets can be layered and ordered on a variety of base maps. 20 MB of private data and 10 private maps are allowed to free registrations.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>Free up to 20MB of private data and 10 maps</price>
+		<page>http://www.history.ac.uk//history-online/node/74810</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://geocommons.com/</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>GeoCommons</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Forum, bug reports and feature requests</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Using the Google chart API (Application Programming Interface) a large number of charts can be made, from simple bar charts to map charts with pin markers, zoomed in to specified latitudes and longitudes. The charts can be made from data entered directly into HTML code or by pointing the API at an appropriate data source, such as a Google docs worksheet. Because this is an API the charts will not work offline. Basic charts can be made by simply manipulating the values given in Google’s templates or using the Chart Wizard, while more and more complex charts can be created by delving more deeply into the code.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74806</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://code.google.com/apis/chart/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Google chart tools </name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Forum; blog</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Google Drive is a storage platform which allows users to upload and access data from any mobile device, desktop PC, laptop, or the web. Users can store anything in their drive and are able to open many file  types within Google Drive. It is also possible to allow other users to access and edit the files on your drive simulaneously, making collaboration on projects easy. Storage of up to 5GB is free.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>Free up 5GB</price>
+		<page>http://www.history.ac.uk//history-online/node/74961</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://drive.google.com</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Google Drive</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<category>Visualisation</category>
+		<userCommunity>User group; feature requests.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>A cloud-based data service which can produce data visualisation from data tables that have been uploaded: maps, charts and timelines of various types. These can be embedded into web pages and will update automatically when the data is updated (this can be managed with the Fusion Tables API). Also available from Google Docs under "Data" (currently beta) - presumably this will migrate to Google Drive, which is pending at the time of writing.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74807</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.google.com/fusiontables/Home/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Google fusion tables </name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Wiki</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>This tool offers a very simply interface for performing topic modelling. Once downloaded, the tool can take any document as an input and produce a list of topics in various formats. Although the options are somewhat limited this is an easy way for a first pass to be made on topic modelling data. For people who wish to experiment with the topic, some sample documents are bundled in with the download. The tool will run on any system that has Java VM installed.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75078</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://code.google.com/p/topic-modeling-tool/</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>Google Topic Modelling Tool</name>
+	</element>
+	<element>
+		<category>Linked data</category>
+		<userCommunity>Video tutorials; learning centre</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Gruff is a visual tool for exploring RDF (Resource Description Framework) triple stores. RDF can appear rather abstract when viewed as a list, so Gruff gives users the ability to explore a set of triples graphically, following connected nodes, zooming in, etc. Several different views are available.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75630</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.franz.com/agraph/gruff/</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>Gruff</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<category>Text mining</category>
+		<userCommunity>Community support, online documentation and introductory literature.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Apache Hadoop is a software framework and distributed file system, enabling distributed data processing across thousands of computers (nodes) with petabytes of data.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74894</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://hadoop.apache.org/</homepage>
+		<availability>Online</availability>
+		<advanced>Advanced</advanced>
+		<name>Hadoop</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Forum; blog; Facebook; Twitter</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>A 'visual programming language' which can take information from private data or the web and visualise it. Requires registration. Once logged in, a menu of libraries offers 'structures, operators, visualizators, controls, and apis': a good general knowledge of programming concepts is required to build the modular visualisation process; for example the first thing on the menu for structures is 'Number', which has 'actionScript number datatype'. Powerful but requires a large investment of time from non-programmers to get started, although some documentation, including code snippets, is available at the site's wiki: http://wiki.impure.com/wiki/index.php/Main_Page. A good example of the kind of thing you can produce is at http://www.elephant-path.com/.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74809</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.impure.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Advanced</advanced>
+		<name>Impure </name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Mailing list; wiki</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Apache Lucene is indexing and search software. It is particularly suitable for indexing text in a variety of file formats. It can also carry out other text analysis functions. Lucene is often used in conjunction with other, closely-related Apache things such as the open-source Solr search server, Hadoop and Mahout.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75465</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://lucene.apache.org/solr/</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Lucene</name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Mailing lists and IRC channel.</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Apache Mahout is a highly optimised library of machine learning and data mining algorithms, built for scalability. Use cases include Recommendation mining, Clustering, Classification and Frequent itemset mining.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74893</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://mahout.apache.org/</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Mahout</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Blog; message board</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Many Eyes is an IBM project described as an "experiment". Registered users can upload a dataset and then choose a visualisation from the following categories: "Analyze a text" (Word Tree, Tag Cloud, Phrase Net, Word Cloud Generator); "Compare a set of values" (Bar Chart, Block Histogram, Bubble Chart); "See relationships among values" (Scatterplot, Matrix Chart, Network Diagram); "See the parts of a whole" (Pie Chart, Tree Map, Tree Map for Comparisons); "See the world" (country maps, supporting 14 countries and more fine-grained US maps at present); "Track rises and falls over time" (Line Graph, Stack Graph, Stack Graph for Categories). Visualisations, which must be shared openly, can be organised into topics. A live version of a visualisation can be embedded into a website.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74808</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www-958.ibm.com/software/data/cognos/manyeyes/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Many Eyes </name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Blogs; forum; wiki</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>A virtual globe and world atlas with which you can pan and zoom around locations and look up places and streets. It is also possible to measure distances, watch the current cloud cover, and change the dates and times to track changes. Types of maps include: topographic, satellite view, and street map. Marble can be embedded as a widget. It can import data from a variety of other data sources, such as KML, GPX and free map sources such as OpenStreetMap.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74977</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://edu.kde.org/marble/</homepage>
+		<availability>Both</availability>
+		<advanced>Beginner</advanced>
+		<name>Marble</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Wiki, discussion list, issue tracker, large list of blog posts about using the tool</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>NodeXL is a template for Microsoft Excel. It allows users to import a 'network edge list' into Excel and then convert that list into a network diagram. In network theory an edge is a connection between two nodes: in concrete terms, the road network in the UK might consist of the nodes London and Leeds, connected by the edge known as the M1 motorway. The network, and its edges, can be anything the researcher classifies as a network; NodeXL will allow them to visualise this network. Note that NodeXL will not work with versions of MS Excel earlier than 2007.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<page>http://www.history.ac.uk//history-online/node/75423</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://nodexl.codeplex.com/</homepage>
+		<availability>Offline</availability>
+		<advanced>Intermediate</advanced>
+		<name>NodeXL</name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Twitter; Facebook; user forum</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Nvivo is intended to be used for querying and analysing unstructured data of any kind. It organises work into projects and has a user-friendly interface based on Microsoft Office products. Users can import data in the most common document formats, such as Word, Excel and PDF, as well as sound and image files, web pages and common social media content. It is more suitable for analysing data in varied formats, particularly social media, than text mining per se.</description>
+		<os>Windows</os>
+		<price>from 370, depending on licence</price>
+		<page>http://www.history.ac.uk//history-online/node/75464</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.qsrinternational.com/products_nvivo.aspx</homepage>
+		<availability>Both</availability>
+		<advanced>Beginner</advanced>
+		<name>Nvivo</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<category>Text mining</category>
+		<userCommunity>Forum; Twitter and Facebook.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>OpenCalais is a service that provides automated metadata for public content submitted. Using natural language processing (NLP), Calais is able to analyse unstructured documents and extract the named entities, facts, and events within it as tags. These 'tags' are then made available to you and can be incorporated into other applications. Use is free up to a maximum number of transactions per day, although this threshhold appears to be negotiable for academic users.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74973</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.opencalais.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Intermediate</advanced>
+		<name>OpenCalais </name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Wiki; forum; Twitter; Facebook; Youtube</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Provides up-to-date and accurate maps and geographic data. There are a range of map types including Boundary-Line, 1:250 000 Scale Raster, and street view. All products are free to view, download and order.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74976</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.ordnancesurvey.co.uk/oswebsite/products/os-opendata.html</homepage>
+		<availability>Both</availability>
+		<advanced>Beginner</advanced>
+		<name>OS Open Data</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>May be mentioned on TEI mailing lists or forums.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>OxGarage is a document conversion facility. Users can upload files falling into three categories: documents, presentations and spreadsheets. In the documents category files in common format, such as Microsoft Word, plain text, or XHTML, or in various TEI formats, can be converted into many formats, including LaTeX, TEI P5, plain text, RDF XML and more. The spreadsheets input is limited to a few standard spreadsheet formats, such as Microsoft Excel and Open Office Spreadsheet, but the lists of outputs is still large. The presentation options are fewer but offer, for example, converstion of Powerpoint to Flash.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74895</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.tei-c.org/oxgarage/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>OxGarage</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Forum and technical support team.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>This XML editor offers tools for XML document authoring and validation, creation and debugging of schemas, and XSL technologies such as XSLT, as well as JSON, among other featues. oXygen comes with build-in support for common markup standards such as TEI and DocBOok. Single academic licences start at $64 at the time of writing. A 30-day free trial is available.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>from $64 for single academic licence</price>
+		<page>http://www.history.ac.uk//history-online/node/74817</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.oxygenxml.com/</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>oXygen XML editor</name>
+	</element>
+	<element>
+		<category>Linked data</category>
+		<userCommunity>Conferences, mailing list, wiki.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Protégé is an open-source ontology editor, allowing users to construct and edit their own ontology for the semantic web, giving the opportunity to link this new ontology more effectively with others that are available online. Additionally the site offers downloads of existing OWL (Web Ontology Language) ontologies. A beta version of a web editor is available, but the downloaded versions have more functionality. Training and consulation are also available for a fee.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75629</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://protege.stanford.edu/</homepage>
+		<availability>Both</availability>
+		<advanced>Intermediate</advanced>
+		<name>Protégé</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Developer group</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Scripto is an open source tool that enables projects to host crowd-sourced transcriptions of documents and images. Registered users are able to view and transcribe digital files. The software must be hosted locally by the project, within a suitable Content Management System.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74974</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://scripto.org/</homepage>
+		<availability>Online</availability>
+		<advanced>Advanced</advanced>
+		<name>Scripto </name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>User forum and mailing list.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Software for XML authoring and validation. It has support for TEI (P4) and DocBook, and particularly strong support for DITA. A more fully-featured enterprise version, with technical support included, is available to buy.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74821</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.syntext.com/products/serna-free/</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>Serna Free</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Email addresses given for the authors, although the tool has not been in development for a long time.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>A command-line tool for querying structured data such as XML. Complex patterns can be saved as aliases, and complex searches can derive, for example, the contents of particular XML elements in various configurations. There is a full help document, which assumes a knowledge of command line arguments and syntax, but this tool seems not to have been in development for many years. Some of the syntax works better on Unix-based systems than Windows.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74818</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.cs.helsinki.fi/u/jjaakkol/sgrep.html</homepage>
+		<availability>Offline</availability>
+		<advanced>Intermediate</advanced>
+		<name>sgrep</name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Mailing list</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Stanford Tools offers a selection of Stanford University's Natural Language Processing software freely available. This includes software for common NLP tasks, such as Named Entity Recognition, part-of-speech tagging for a number of languages, tokenising, tagging, parsing and topic modelling.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75519</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://nlp.stanford.edu/software/index.shtml</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Stanford Tools</name>
+	</element>
+	<element>
+		<category>Linked data</category>
+		<userCommunity>FAQs, email address for contacting the project team</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Swoogle is a semantic web search engine for searching ontologies and semantic web documents (in practice, anything written in RDF - Resource Description Framework). The advanced search allows search by specific parts of metadata or by other options, such as number of triples. Swoogle uses Lucene, so Lucene-syntax searches are also possible.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75631</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://swoogle.umbc.edu/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Swoogle</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Forums, mailing list and Wiki for TEI in general. Email address for help queries concerning Roma.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>TEI Roma is a tool for generating a bespoke TEI schema, DTD or Relax NG. Users can choose which TEI elements they require, starting either from the smallest possible set of elements, or starting from a template element set designed for a particular purpose, such as manuscript description.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74819</page>
+		<development>No active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.tei-c.org/Roma/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>TEI Roma</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Newsletter; conferences; publications</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>TextGrid is a virtual research environment consisting of a 'Repository' - an archive for research data, and a 'Laboratory' - the point of access to the VRE providing access to tools and services via user-friendly software. It allows Arts and Humanities researchers to work together and conduct projects in a secure environment sharing tools, data and methods.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74972</page>
+		<development>Active development</development>
+		<purpose>Multifunctional</purpose>
+		<homepage>http://www.textgrid.de/en.html</homepage>
+		<availability>Online</availability>
+		<advanced>Intermediate</advanced>
+		<name>TextGrid </name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Mailing list; wiki</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Tika is a Java-based text extraction tool which is primarily aimed at handling data in unknown formats; it extracts metadata and structured content from unknown texts, and can also detect the language of the text. A feature of the tool is that it is designed to work with third-party parsers, so that developers can integrate Tika with parsers they are already familiar with.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75518</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://tika.apache.org/</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Tika</name>
+	</element>
+	<element>
+		<category>Visualisation</category>
+		<userCommunity>Email address for help and bug reporting</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Software for the creation of timelines. The timelines allow embedding of video (from YouTube or Vimeo) as well as images. Although one timeline can be created, for testing purposes, with a free registration, Tiki-Toki offers bronze, silver and gold memberships, with bronze currently priced at $5 per month. Educational licences are available for purchase on a per-teacher basis, with sitewide licences available on application. Group editing and embedding on third-party sites is available for paid accounts only.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>from $5 a month</price>
+		<page>http://www.history.ac.uk//history-online/node/74811</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.tiki-toki.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Tiki-Toki</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Software blog, Twitter and Facebook.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Online software that allows teams to track the progress of a project or task. Users can create and share team boards, to which virtual cards are attached: these cards can contain files, pictures, links, to-do lists, responsibility assignments and scheduling. Cards that are completed can be archived. Boards can be made private or public.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74823</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>https://trello.com/</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Trello</name>
+	</element>
+	<element>
+		<category>Linked data</category>
+		<development>Active development</development>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>A simple URI validator, Vapour will check whether a URI follows current best practice for linked data URIs. Users enter a URI and validate it manually. The source code is available from Bitbucket under a W3C licence.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75633</page>
+		<purpose>Single purpose</purpose>
+		<homepage>http://validator.linkeddata.org/vapour</homepage>
+		<availability>Online</availability>
+		<advanced>Beginner</advanced>
+		<name>Vapour</name>
+	</element>
+	<element>
+		<category>Text mining</category>
+		<userCommunity>Forum; mailing list; IRC channel; extensive wiki</userCommunity>
+		<otherSoftware>Other software required</otherSoftware>
+		<description>Weka offers a suite of algorithms for machine learning. Common data mining tasks covered include pre-processing, classification and clustering. The project also offers a selection of datasets for download. It is possible to use CSV data but there are certain limitations compared to the default Weka file format of ARFF (Attribute Relation File Format); conversion to ARFF using Java or Python is discussed in the project documentation. There is also a book by project members: Data Mining: Practical Machine Learning Tools and Techniques, which covers data mining in general and using Weka for practical examples.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/75517</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.cs.waikato.ac.nz/ml/weka/</homepage>
+		<availability>Offline</availability>
+		<advanced>Advanced</advanced>
+		<name>Weka</name>
+	</element>
+	<element>
+		<category>Semantic markup</category>
+		<userCommunity>Discussion forum, online training and user forum.</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Altova XMLSpy is designed for authoring and validating XML documents, creating and debugging XML Schemas and Json files, and for handling the XSL suite of technologies, such as XSLT and XPath. Graphical and text-based views of XML files are offered. An educational licence does not appear to be available, but 30-day free trials can be requested.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<price>from £315</price>
+		<page>http://www.history.ac.uk//history-online/node/74820</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://www.altova.com/xmlspy.html</homepage>
+		<availability>Offline</availability>
+		<advanced>Beginner</advanced>
+		<name>XMLSpy</name>
+	</element>
+	<element>
+		<category>Cloud computing</category>
+		<userCommunity>Message board; blog</userCommunity>
+		<otherSoftware>Other software not required</otherSoftware>
+		<description>Yahoo! Pipes is a web application providing an interface through which users can create data mashups that aggregate web content such as web feeds and web pages (the name is based on the Unix notion of piping one command to another). There are three elements to the interface: library, canvas, and debugger. At its simplest you can drag a web data source onto the canvas and then pipe it through some kind of operator. The resultant web-based app can be 'published' on the Yahoo! Pipes website or can be kept private, accessible only through its URL. The output of the pipe can be RSS, JSON, KML, or other formats.</description>
+		<os>Windows</os>
+		<os>Mac</os>
+		<os>Unix</os>
+		<page>http://www.history.ac.uk//history-online/node/74962</page>
+		<development>Active development</development>
+		<purpose>Single purpose</purpose>
+		<homepage>http://pipes.yahoo.com/pipes/</homepage>
+		<availability>Online</availability>
+		<advanced>Intermediate</advanced>
+		<name>Yahoo! Pipes </name>
+	</element>
+</data>

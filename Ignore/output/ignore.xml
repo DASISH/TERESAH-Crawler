@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data>
+<ignore>Firefox 1.0+, Internet Explorer 7, Safari 2, Opera 9.0, Google Chrome</ignore>
+<ignore>Firefox 2.0, Zotero, Java Runtime Environment and QuickTime player (for Windows users)</ignore>
+<ignore>Firefox 2.x, Safari 3.x, Internet Explorer 7.0, Opera 9.x</ignore>
+<ignore>Firefox, Chrome, Safari, and Internet Explorer 9</ignore>
+<ignore>iOS 3.0+</ignore>
+<ignore>iOS 3.1+</ignore>
+<ignore>iOS 3.14+</ignore>
+<ignore>iOS 3.2</ignore>
+<ignore>iOS 4.0</ignore>
+<ignore>iOS 4.2+</ignore>
+<ignore>Java 1.6+</ignore>
+<ignore>Java 1.4.2 for Windows, Java 1.5.0 for Mac</ignore>
+<ignore>Java 1.5+</ignore>
+<ignore>Java 2 1.4.2+</ignore>
+<ignore>Java</ignore>
+<ignore>Mac OS X 10.5.8 (Leopard) or later</ignore>
+<ignore>Mac OS X 10.5+</ignore>
+<ignore>Mac OS X 10.5.7+</ignore>
+<ignore>Mac OS X 10.6</ignore>
+<ignore>Mac OS X 10.7+, Mac iOS 4.0+</ignore>
+</data>

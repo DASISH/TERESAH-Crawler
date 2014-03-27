@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<data>
+
+	<element name='ArcGis'>
+		<synonym>ArcGis</synonym>
+		<synonym>ArcGIS
+</synonym>
+	</element>
+	<element name='BuddyPress'>
+		<synonym>BuddyPress</synonym>
+		<synonym>WordPress, BuddyPress</synonym>
+		<synonym>BuddyPress Courseware
+</synonym>
+	</element>
+	<element name='BuddyPress Courseware'>
+		<synonym>BuddyPress Courseware</synonym>
+		<synonym>BuddyPress
+</synonym>
+	</element>
+	<element name='Firefox 1.0+, Internet Explorer 7, Safari 2, Opera 9.0, Google Chrome'>
+		<synonym>Firefox 1.0+, Internet Explorer 7, Safari 2, Opera 9.0, Google Chrome</synonym>
+		<synonym>Firefox 2.x, Safari 3.x, Internet Explorer 7.0, Opera 9.x
+</synonym>
+	</element>
+	<element name='Firefox 2.x, Safari 3.x, Internet Explorer 7.0, Opera 9.x'>
+		<synonym>Firefox 2.x, Safari 3.x, Internet Explorer 7.0, Opera 9.x</synonym>
+		<synonym>Firefox, Chrome, Safari, and Internet Explorer 9</synonym>
+		<synonym>Firefox 1.0+, Internet Explorer 7, Safari 2, Opera 9.0, Google Chrome
+</synonym>
+	</element>
+	<element name='GIMP (GNU Image Manipulation Program)'>
+		<synonym>GIMP (GNU Image Manipulation Program)</synonym>
+		<synonym>GIMP: GNU Image Manipulation Program
+</synonym>
+	</element>
+	<element name='Google Scholar'>
+		<synonym>Google Scholar</synonym>
+		<synonym>Google Scholar Citations
+</synonym>
+	</element>
+	<element name='Google Scholar Citations'>
+		<synonym>Google Scholar Citations</synonym>
+		<synonym>Google Scholar
+</synonym>
+	</element>
+	<element name='iOS 3.0+'>
+		<synonym>iOS 3.0+</synonym>
+		<synonym>iOS 3.1+</synonym>
+		<synonym>iOS 3.14+</synonym>
+		<synonym>iOS 4.0
+</synonym>
+	</element>
+	<element name='iOS 3.1+'>
+		<synonym>iOS 3.1+</synonym>
+		<synonym>iOS 3.0+</synonym>
+		<synonym>iOS 3.2</synonym>
+		<synonym>iOS 4.2+
+</synonym>
+	</element>
+	<element name='Java'>
+		<synonym>Java</synonym>
+		<synonym>Java 1.6+</synonym>
+		<synonym>Java 1.5+
+</synonym>
+	</element>
+	<element name='Java 1.5+'>
+		<synonym>Java 1.5+</synonym>
+		<synonym>Java 2 1.4.2+</synonym>
+		<synonym>Java
+</synonym>
+	</element>
+	<element name='Mac OS X 10.5+'>
+		<synonym>Mac OS X 10.5+</synonym>
+		<synonym>Mac OS X 10.5.7+</synonym>
+		<synonym>Mac OS X 10.6</synonym>
+		<synonym>Mac OS X 10.7+, Mac iOS 4.0+
+</synonym>
+	</element>
+	<element name='Mac OS X 10.5.7+'>
+		<synonym>Mac OS X 10.5.7+</synonym>
+		<synonym>Mac OS X 10.5+
+</synonym>
+	</element>
+	<element name='Omeka.net'>
+		<synonym>Omeka.net</synonym>
+		<synonym>Omeka</synonym>
+		<synonym>Omeka
+</synonym>
+	</element>
+	<element name='Sharepoint'>
+		<synonym>Sharepoint</synonym>
+		<synonym>SharePoint
+</synonym>
+	</element>
+	<element name='WordPress'>
+		<synonym>WordPress</synonym>
+		<synonym>WordPress.com
+</synonym>
+	</element>
+	<element name='WordPress.com'>
+		<synonym>WordPress.com</synonym>
+		<synonym>WordPress</synonym>
+		<synonym>WordPress
+</synonym>
+	</element>
+	<element name='GIMP: GNU Image Manipulation Program'>
+		<synonym>GIMP: GNU Image Manipulation Program</synonym>
+		<synonym>GIMP (GNU Image Manipulation Program)
+</synonym>
+	</element>
+	<element name='SharePoint'>
+		<synonym>SharePoint</synonym>
+		<synonym>Sharepoint
+</synonym>
+	</element></data>
